@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "36d4c90972fcba4b",
+        "id": "f318701318957f44",
         "type": "tabs",
         "children": [
           {
-            "id": "de1adfc621ab1ad5",
+            "id": "e541e6be198a9013",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08332cf09f02e822",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/A Neural Probabilistic Language Model.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,17 +139,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de1adfc621ab1ad5",
+  "active": "e541e6be198a9013",
   "lastOpenFiles": [
     "makemore-MLP.md",
-    "assets/Figrure 1 Algorithm description.png",
     "assets/A Neural Probabilistic Language Model.pdf",
+    "assets/pytorch cross_entropy function parameters.png",
+    "makemore-bigram.md",
     "assets/0028DB2A.png",
+    "README.md",
+    "assets/Figrure 1 Algorithm description.png",
     "备忘录/密码和密钥备忘录.md",
     "备忘录",
     "zero2hero.md",
     "micrograd.md",
-    "makemore-bigram.md",
     "makemore series.md",
     "assets/convert_llama_weights_to_hf.py",
     "assets",
