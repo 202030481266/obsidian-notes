@@ -11,8 +11,22 @@
             "id": "de1adfc621ab1ad5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08332cf09f02e822",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/A Neural Probabilistic Language Model.pdf"
+              }
             }
           }
         ]
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -141,14 +159,16 @@
   },
   "active": "de1adfc621ab1ad5",
   "lastOpenFiles": [
+    "makemore-MLP.md",
+    "assets/Figrure 1 Algorithm description.png",
+    "assets/A Neural Probabilistic Language Model.pdf",
+    "assets/0028DB2A.png",
     "备忘录/密码和密钥备忘录.md",
     "备忘录",
     "zero2hero.md",
     "micrograd.md",
     "makemore-bigram.md",
-    "makemore-MLP.md",
     "makemore series.md",
-    "assets/A Neural Probabilistic Language Model.pdf",
     "assets/convert_llama_weights_to_hf.py",
     "assets",
     "Ollama.md",
