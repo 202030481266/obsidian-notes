@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "dfdbd3dd9b6c3f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d4c90972fcba4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de1adfc621ab1ad5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82ce684dfa1d9ed0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7715083e496c9f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f08620785d0bc71a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "261bc555000cb289",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "714451dc3357fe4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "right": {
+    "id": "87419be2d622fda6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d0de18279b185d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0340a0b0d20f095b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95a6a42b2e5854d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dff7e8c7e684fb37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c07ebaf82c126d56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "de1adfc621ab1ad5",
+  "lastOpenFiles": [
+    "备忘录/密码和密钥备忘录.md",
+    "备忘录",
+    "zero2hero.md",
+    "micrograd.md",
+    "makemore-bigram.md",
+    "makemore-MLP.md",
+    "makemore series.md",
+    "assets/A Neural Probabilistic Language Model.pdf",
+    "assets/convert_llama_weights_to_hf.py",
+    "assets",
+    "Ollama.md",
+    "Business/最后一英里.md",
+    "Business/增长黑客说书会.md",
+    "Business/人们使用LLM做了什么.md",
+    "Business/AI+商业.md",
+    "Business",
+    "1、A Neural Probabilistic Language Model.pdf.md",
+    "assets/A Neural Probabilistic Language Model.pdf.crdownload",
+    "LLaMA3.1.md",
+    "新建文件夹",
+    "static/code/convert_llama_weights_to_hf.py.md",
+    "static/code/convert_llama_weights_to_hf.py",
+    "static/code",
+    "static",
+    "().md",
+    "2024-07-25.md",
+    "未命名.canvas",
+    "Pasted image 20240725032733.png",
+    "[makemore/names.txt.md",
+    "bigram.md"
+  ]
+}

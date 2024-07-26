@@ -1,0 +1,9 @@
+{
+  "spellcheck": false,
+  "vimMode": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./assets/"
+}
