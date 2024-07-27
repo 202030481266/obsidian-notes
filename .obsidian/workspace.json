@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f318701318957f44",
+        "id": "76a4e6b641c90f71",
         "type": "tabs",
         "children": [
           {
-            "id": "e541e6be198a9013",
+            "id": "02c62e9b407b903e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "模型量化.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 329.5
   },
   "right": {
     "id": "87419be2d622fda6",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "模型量化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "模型量化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "模型量化.md"
+              }
             }
           }
         ]
@@ -139,12 +147,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e541e6be198a9013",
+  "active": "02c62e9b407b903e",
   "lastOpenFiles": [
+    "assets/零点量化方法.png",
+    "assets/最大绝对值量化方法.png",
+    "模型量化.md",
+    "assets/Pasted image 20240727203528.png",
+    "assets/Frequently Used Data Type in DL.png",
+    "assets/pytorch cross_entropy function parameters.png",
+    "assets/Pasted image 20240727194206.png",
+    "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
+    "paper  notes",
+    "makemore-bigram.md",
     "makemore-MLP.md",
     "assets/A Neural Probabilistic Language Model.pdf",
-    "assets/pytorch cross_entropy function parameters.png",
-    "makemore-bigram.md",
+    "LLaMA3.1.md",
     "assets/0028DB2A.png",
     "README.md",
     "assets/Figrure 1 Algorithm description.png",
@@ -163,12 +180,10 @@
     "Business",
     "1、A Neural Probabilistic Language Model.pdf.md",
     "assets/A Neural Probabilistic Language Model.pdf.crdownload",
-    "LLaMA3.1.md",
     "新建文件夹",
     "static/code/convert_llama_weights_to_hf.py.md",
     "static/code/convert_llama_weights_to_hf.py",
     "static/code",
-    "static",
     "().md",
     "2024-07-25.md",
     "未命名.canvas",

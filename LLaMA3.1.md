@@ -20,5 +20,13 @@
 
 [convert_llama_weights_to_hf.py](./assets/convert_llama_weights_to_hf.py)
 
+使用方法的命令一般都是：
 
+```bash
+python convert_llama_weights_to_hf.py --input_dir <original_dir_path> \
+	--output_dir <target_dir_path> \
+	--model_size <8B, 70B> \
+	--instruct <False, True> \
+	--llama_version <2,3,3.1>
+```
 
