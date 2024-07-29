@@ -2,5 +2,8 @@
   "theme": "obsidian",
   "cssTheme": "",
   "monospaceFontFamily": "Hack,Consolas",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "image"
+  ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模型量化.md",
+                "file": "makemore-Activations & Gradients, BatchNorm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模型量化.md",
+                "file": "makemore-Activations & Gradients, BatchNorm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模型量化.md",
+                "file": "makemore-Activations & Gradients, BatchNorm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模型量化.md"
+                "file": "makemore-Activations & Gradients, BatchNorm.md"
               }
             }
           }
@@ -149,27 +149,30 @@
   },
   "active": "02c62e9b407b903e",
   "lastOpenFiles": [
-    "assets/零点量化方法.png",
-    "assets/最大绝对值量化方法.png",
+    "assets/Batch Norm make Train Stable and Faster.png",
+    "makemore-Activations & Gradients, BatchNorm.md",
     "模型量化.md",
-    "assets/Pasted image 20240727203528.png",
-    "assets/Frequently Used Data Type in DL.png",
+    "assets/Batch Norm Change Error Surface.png",
     "assets/pytorch cross_entropy function parameters.png",
-    "assets/Pasted image 20240727194206.png",
+    "assets/内部协变量偏移例子.png",
+    "assets/Batch Norm Layer Sequence.png",
+    "assets/Batch Norm Testing Inference.png",
+    "assets/Batch Norm in Vector View.png",
+    "assets/Batch Norm Updata Image.png",
+    "assets/Batch Norm Layer Image.png",
+    "makemore series.md",
+    "assets/零点量化方法.png",
     "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
     "paper  notes",
     "makemore-bigram.md",
     "makemore-MLP.md",
     "assets/A Neural Probabilistic Language Model.pdf",
     "LLaMA3.1.md",
-    "assets/0028DB2A.png",
     "README.md",
-    "assets/Figrure 1 Algorithm description.png",
     "备忘录/密码和密钥备忘录.md",
     "备忘录",
     "zero2hero.md",
     "micrograd.md",
-    "makemore series.md",
     "assets/convert_llama_weights_to_hf.py",
     "assets",
     "Ollama.md",
@@ -187,7 +190,6 @@
     "().md",
     "2024-07-25.md",
     "未命名.canvas",
-    "Pasted image 20240725032733.png",
     "[makemore/names.txt.md",
     "bigram.md"
   ]
