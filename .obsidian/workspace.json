@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02c62e9b407b903e",
+            "id": "7d173817f7a497dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "makemore-Activations & Gradients, BatchNorm.md",
+                "file": "makemore-Becoming a Backprop Ninja.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "makemore-Activations & Gradients, BatchNorm.md",
+                "file": "makemore-Becoming a Backprop Ninja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "makemore-Activations & Gradients, BatchNorm.md",
+                "file": "makemore-Becoming a Backprop Ninja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "makemore-Activations & Gradients, BatchNorm.md"
+                "file": "makemore-Becoming a Backprop Ninja.md"
               }
             }
           }
@@ -147,10 +147,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02c62e9b407b903e",
+  "active": "7d173817f7a497dc",
   "lastOpenFiles": [
-    "assets/Batch Norm make Train Stable and Faster.png",
+    "assets/Matrix Calculus - Notes on the derivative of a Trace.pdf",
+    "assets/Matrix Calculus - Notes on the derivative of a Trace.pdf.crdownload",
     "makemore-Activations & Gradients, BatchNorm.md",
+    "makemore-Becoming a Backprop Ninja.md",
+    "assets/Matrix Cookbook.pdf",
+    "assets/Matrix Cookbook.pdf.crdownload",
+    "makemore series.md",
+    "zero2hero.md",
+    "assets/Batch Norm make Train Stable and Faster.png",
     "模型量化.md",
     "assets/Batch Norm Change Error Surface.png",
     "assets/pytorch cross_entropy function parameters.png",
@@ -160,7 +167,6 @@
     "assets/Batch Norm in Vector View.png",
     "assets/Batch Norm Updata Image.png",
     "assets/Batch Norm Layer Image.png",
-    "makemore series.md",
     "assets/零点量化方法.png",
     "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
     "paper  notes",
@@ -171,7 +177,6 @@
     "README.md",
     "备忘录/密码和密钥备忘录.md",
     "备忘录",
-    "zero2hero.md",
     "micrograd.md",
     "assets/convert_llama_weights_to_hf.py",
     "assets",
@@ -183,10 +188,7 @@
     "Business",
     "1、A Neural Probabilistic Language Model.pdf.md",
     "assets/A Neural Probabilistic Language Model.pdf.crdownload",
-    "新建文件夹",
     "static/code/convert_llama_weights_to_hf.py.md",
-    "static/code/convert_llama_weights_to_hf.py",
-    "static/code",
     "().md",
     "2024-07-25.md",
     "未命名.canvas",

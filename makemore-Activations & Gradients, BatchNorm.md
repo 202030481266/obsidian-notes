@@ -2,9 +2,15 @@
 # Related Link
 
 [Karpathy's youtube tutorial](https://www.youtube.com/watch?v=P6sfmUTpUmc&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5)
+[Karpathy's github notebook](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part3_bn.ipynb)
+[Karpathy's google colab notebook](https://colab.research.google.com/drive/1H5CSy-OnisagUgDUXhHwo1ng2pjKHYSN?usp=sharing)
+[My google colab notebook for exercise](https://colab.research.google.com/drive/1PD-OVzcZamEqaW0C8ZPI6YA_Cu9_SLsR)
 [李宏毅的BN课程讲解](https://www.youtube.com/watch?v=BABPWOkSbLE)
 [Batch Norm Explained Visually — How it works, and why neural networks need it](https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739)
 [Batch Norm Explained Visually — Why does it work?](https://towardsdatascience.com/batch-norm-explained-visually-why-does-it-work-90b98bcc58a0)
+[Kaiming Paper of Nerual Network Initialization](https://arxiv.org/abs/1502.01852)
+[BatchNorm Paper](https://arxiv.org/abs/1502.03167)
+[Rethinking in BatchNorm](https://arxiv.org/abs/2105.07576)
 
 # BatchNorm
 
@@ -246,5 +252,115 @@ Batch Normalization 引入噪声的原因主要与它在训练过程中对小批
 
 虽然Karpathy说了，由于现代的神经网络训练高级技术，比如归一化，Adam优化器和残差连接等等使得现代的深度神经网络更加容易训练，但是我们仍然有必要了解神经网络的初始化的关键性以及学会如何有效调整神经网络的初始化参数。
 
+**在没有高级的神经网络训练技术的时候，微调这些初始化参数是一种权衡的艺术，You need to be very very careful!**。（就是不断测试，然后通过一些工具方法去进行一个半原则判断）Kaiming Init 是一种相对经验主义的方法，即针对不同的激活函数采取一种可以定量计算的公式来进行网络参数的初始化。具体可以看上面的论文链接，也可以参考[Pytorch的初始化方法实现](https://pytorch.org/docs/stable/nn.init.html)。
 
+# Code
 
+这篇文章的重点放在对上一次的代码的重构上，并且进行Pytorch API Style的神经网络编程，加上了神经网络初始化的增益和BatchNorm代码。
+
+首先，`torch.randn`会返回标准的高斯分布，即
+$$ \text{out}=\mathcal{N}(0,1)$$
+参考了Pytorch的`kaiming_normal_`函数实现，其中对于标准的高斯分布，我们将其转换为标准差等于$std$的高斯分布（本质上是$X'=X\times std$），其中
+$$std=\frac{gain}{\sqrt{fan_{in}}}$$
+
+由于我们的激活函数使用$\tanh$ ，所以我们使用的增益$gain=\frac{3}{5}$，这个是Pytorch里面推荐的值。
+
+```python
+# refactored code
+# pytorch API style
+
+class Linear:
+
+  def __init__(self, fan_in, fan_out, bias=True):
+    self.weight = torch.randn((fan_in, fan_out)) / fan_in**0.5  # He init for normal distribution
+    self.bias = torch.zeros(fan_out) if bias else None
+
+  def __call__(self, x):
+    # forward pass
+    self.out = x @ self.weight
+    if self.bias is not None:
+      self.out += self.bias
+    return self.out
+
+  def parameters(self):
+    return [self.weight] + ([] if self.bias is None else [self.bias])
+```
+
+BatchNorm层的实现参考`torch.nn.BatchNorm1d`的实现，[点击此处查看更加详细的内容](https://pytorch.org/docs/stable/generated/torch.nn.BatchNorm1d.html#torch.nn.BatchNorm1d)。
+实际上大多数对于BatchNorm的实现遵循了论文中给出的定义和方法。
+
+```python
+class BatchNorm1d:
+
+  def __init__(self, dim, eps=1e-5, momentum=0.1):
+
+    self.momentum = momentum
+    self.eps = eps
+    self.training = True # 控制神经网络的行动
+    # initailly make normalization
+    self.gamma = torch.ones(dim)
+    self.beta = torch.zeros(dim)
+    # 缓冲区，前向更新，不进行反向传播
+    self.running_mean = torch.zeros(dim)
+    self.running_var = torch.ones(dim)
+
+  def __call__(self, x):
+    if self.training:
+      xmean = x.mean(0, keepdim=True) # batch mean
+      xvar = x.var(0, keepdim=True)  # batch var
+    else:
+      xmean = self.running_mean
+      xvar = self.running_var
+    xhat = (x - xmean) / torch.sqrt(xvar + self.eps) # normalize
+    self.out = self.gamma * xhat + self.beta
+    # update
+    self.running_mean = (1-self.momentum) * self.running_mean + self.momentum * xmean
+    self.running_var = (1-self.momentum) * self.running_var + self.momentum * xvar
+    return self.out
+
+  def parameters(self):
+    return [self.gamma, self.beta]
+```
+
+接着我们简单实现一个$\tanh$激活函数层：
+
+```python
+class Tanh:
+
+  def __call__(self, x):
+    self.out = torch.tanh(x)
+    return self.out
+
+  def parameters(self):
+    return []
+```
+
+接着，就可以像Pytorch那样写神经网络的代码了（真的是太舒服了啊），我们将所有的网络层对象一样一层一层写出来，同时做好网络的参数初始化（**在这里只有添加增益，因为我们用了BatchNorm，其实对于很多初始化设置是不太敏感的**）：
+
+```python
+n_embd = 10
+n_hidden = 100
+
+C = torch.randn((vocab_size, n_embd))
+layers = [
+  Linear(n_embd * block_size, n_hidden, bias=False), BatchNorm1d(n_hidden), Tanh(),
+  Linear(n_hidden, n_hidden, bias=False), BatchNorm1d(n_hidden), Tanh(),
+  Linear(n_hidden, n_hidden, bias=False), BatchNorm1d(n_hidden), Tanh(),
+  Linear(n_hidden, n_hidden, bias=False), BatchNorm1d(n_hidden), Tanh(),
+  Linear(n_hidden, n_hidden, bias=False), BatchNorm1d(n_hidden), Tanh(),
+  Linear(n_hidden, vocab_size, bias=False), BatchNorm1d(vocab_size),
+]
+
+with torch.no_grad():
+  layers[-1].gamma *= 0.1 # 避免损失过大
+  for layer in layers[:-1]:
+    if isinstance(layer, Linear):
+      layer.weight *= 5/3 # 添加gain，tanh函数使用5/3
+
+parameters = [C] + [p for layer in layers for p in layer.parameters()]
+print(sum(p.nelement() for p in parameters)) # number of parameters in total
+for p in parameters:
+  p.requires_grad = True
+```
+
+这里Karpathy介绍了一些有效的观察神经网络的工具，==其中的本质就是将神经网络的参数属性打印出来：观察是否存在一个变化的趋势（shrink or diffusion ?)==，如果全部的网络层能够表示出良好的对称性和稳定性，那么就说明是一个相当好的初始化。具体参加colab上的代码。
