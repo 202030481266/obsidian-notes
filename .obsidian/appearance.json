@@ -4,6 +4,7 @@
   "monospaceFontFamily": "Hack,Consolas",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
-    "image"
+    "image",
+    "table center"
   ]
 }
