@@ -2,17 +2,19 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
+torch.manual_seed(1337)
+
 # hyperparameters
 batch_size = 128 # how many independent sequences will we process in parallel?
-block_size = 32 # what is the maximum context length for predictions?
-max_iters = 20000
+block_size = 64 # what is the maximum context length for predictions?
+max_iters = 60000
 eval_interval = 500
 learning_rate = 3e-4
 device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 eval_iters = 200
 n_embd = 64
-n_head = 4
-n_layer = 4
+n_head = 8
+n_layer = 6
 dropout = 0.2
 
 with open('addition_dataset.txt', 'r', encoding='utf-8') as f:
