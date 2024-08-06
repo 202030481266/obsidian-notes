@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "76a4e6b641c90f71",
+        "id": "37538a2d7c5f017a",
         "type": "tabs",
         "children": [
           {
-            "id": "39d6c4a4ca71233f",
+            "id": "ab076ae0a91e726c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模型量化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c8dd8f9cd6057e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM.int8() and Emergent Features.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 410.5
   },
   "right": {
     "id": "87419be2d622fda6",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM.int8() and Emergent Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM.int8() and Emergent Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LLM.int8() and Emergent Features.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,24 +139,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c8dd8f9cd6057e0",
+  "active": "ab076ae0a91e726c",
   "lastOpenFiles": [
-    "模型量化.md",
+    "Let's build the GPT from scrtach.md",
+    "code/GPT from scratch/infer.py",
+    "code/GPT from scratch/build_dataset.py",
+    "code/GPT from scratch/gpt.py",
+    "code/GPT from scratch",
+    "code",
+    "assets/Transformer架构图.png",
+    "zero2hero.md",
     "LLM.int8() and Emergent Features.md",
+    "makemore-Becoming a Backprop Ninja.md",
+    "模型量化.md",
+    "makemore-bigram.md",
+    "makemore-WaveNet.md",
+    "makemore-Activations & Gradients, BatchNorm.md",
+    "makemore series.md",
+    "assets/Matrix Cookbook.pdf",
     "矩阵的内积、外积、哈达玛积和乘法.md",
     "assets/LLM.int8() 矩阵乘法内部展示图.png",
     "assets/Matrix Calculus - Notes on the derivative of a Trace.pdf",
-    "makemore-Becoming a Backprop Ninja.md",
     "Business/人们使用LLM做了什么.md",
     "Business/AI+商业.md",
     "Business/最后一英里.md",
     "Business/增长黑客说书会.md",
     "assets/Matrix Calculus - Notes on the derivative of a Trace.pdf.crdownload",
-    "makemore-Activations & Gradients, BatchNorm.md",
-    "assets/Matrix Cookbook.pdf",
     "assets/Matrix Cookbook.pdf.crdownload",
-    "makemore series.md",
-    "zero2hero.md",
     "assets/Batch Norm make Train Stable and Faster.png",
     "assets/Batch Norm Change Error Surface.png",
     "assets/pytorch cross_entropy function parameters.png",
@@ -186,27 +174,18 @@
     "assets/Batch Norm Testing Inference.png",
     "assets/Batch Norm in Vector View.png",
     "assets/Batch Norm Updata Image.png",
-    "assets/Batch Norm Layer Image.png",
     "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
     "paper  notes",
-    "makemore-bigram.md",
     "makemore-MLP.md",
-    "assets/A Neural Probabilistic Language Model.pdf",
     "LLaMA3.1.md",
     "README.md",
     "备忘录/密码和密钥备忘录.md",
-    "备忘录",
     "micrograd.md",
-    "assets/convert_llama_weights_to_hf.py",
-    "assets",
     "Ollama.md",
-    "Business",
     "1、A Neural Probabilistic Language Model.pdf.md",
     "static/code/convert_llama_weights_to_hf.py.md",
     "().md",
     "2024-07-25.md",
-    "未命名.canvas",
-    "[makemore/names.txt.md",
-    "bigram.md"
+    "未命名.canvas"
   ]
 }
