@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "37538a2d7c5f017a",
+        "id": "4f529e911ef2c40d",
         "type": "tabs",
         "children": [
           {
-            "id": "ab076ae0a91e726c",
+            "id": "3d1552b2ca6b5528",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Let's reproduce GPT-2(124M).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f608966f5735dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Let's build the GPT from scrtach.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 354.5
   },
   "right": {
     "id": "87419be2d622fda6",
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Let's reproduce GPT-2(124M).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Let's reproduce GPT-2(124M).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Let's reproduce GPT-2(124M).md"
+              }
             }
           }
         ]
@@ -139,25 +159,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab076ae0a91e726c",
+  "active": "3d1552b2ca6b5528",
   "lastOpenFiles": [
+    "assets/Transformer多头注意力矩阵乘法.svg",
+    "assets/Transformer多头注意力矩阵乘法.drawio",
     "Let's build the GPT from scrtach.md",
+    "Let's reproduce GPT-2(124M).md",
+    "深度学习的优化算法.md",
+    "SSH反向代理和转发.md",
+    "assets/ssh反向代理.svg",
+    "希腊字母表.md",
+    "LLaMA3.1.md",
+    "模型量化.md",
+    "矩阵的内积、外积、哈达玛积和乘法.md",
+    "Let's build the GPT tokenizer from scratch.md",
+    "LLM.int8() and Emergent Features.md",
+    "assets/GPT2 Tokenizer BPE Regex.png",
+    "zero2hero.md",
     "code/GPT from scratch/infer.py",
     "code/GPT from scratch/build_dataset.py",
     "code/GPT from scratch/gpt.py",
     "code/GPT from scratch",
     "code",
     "assets/Transformer架构图.png",
-    "zero2hero.md",
-    "LLM.int8() and Emergent Features.md",
     "makemore-Becoming a Backprop Ninja.md",
-    "模型量化.md",
     "makemore-bigram.md",
     "makemore-WaveNet.md",
     "makemore-Activations & Gradients, BatchNorm.md",
     "makemore series.md",
     "assets/Matrix Cookbook.pdf",
-    "矩阵的内积、外积、哈达玛积和乘法.md",
     "assets/LLM.int8() 矩阵乘法内部展示图.png",
     "assets/Matrix Calculus - Notes on the derivative of a Trace.pdf",
     "Business/人们使用LLM做了什么.md",
@@ -172,20 +202,11 @@
     "assets/内部协变量偏移例子.png",
     "assets/Batch Norm Layer Sequence.png",
     "assets/Batch Norm Testing Inference.png",
-    "assets/Batch Norm in Vector View.png",
-    "assets/Batch Norm Updata Image.png",
     "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
-    "paper  notes",
     "makemore-MLP.md",
-    "LLaMA3.1.md",
     "README.md",
     "备忘录/密码和密钥备忘录.md",
     "micrograd.md",
-    "Ollama.md",
-    "1、A Neural Probabilistic Language Model.pdf.md",
-    "static/code/convert_llama_weights_to_hf.py.md",
-    "().md",
-    "2024-07-25.md",
     "未命名.canvas"
   ]
 }
