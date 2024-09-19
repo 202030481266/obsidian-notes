@@ -4,9 +4,7 @@
 - [Karpathy's Youtube tutorial](https://www.youtube.com/watch?v=l8pRSuU81PU&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [Karpathy's github notebook](https://github.com/karpathy/build-nanogpt)
 
-# 代码实现
-
-## CausalSelfAttention算法优化
+# CausalSelfAttention算法优化
 
 首先经典的实现如下：
 
@@ -69,5 +67,4 @@ $$
 \end{align}
 $$
 
-## 实现CausalSelfAttention
 

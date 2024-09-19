@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4f529e911ef2c40d",
+        "id": "76023c2905473b28",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1552b2ca6b5528",
+            "id": "b9e6786bccf177a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Let's reproduce GPT-2(124M).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e9b5006e3777228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuous Batching.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continuous Batching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Continuous Batching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Continuous Batching.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,13 +139,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e9b5006e3777228",
+  "active": "b9e6786bccf177a5",
   "lastOpenFiles": [
-    "验证提示词技术.md",
-    "验证LLM的输出结果.md",
+    "cp-algorithm/逆元、除法同余和容斥原理.md",
+    "cp-algorithm/无向图三元环数量.md",
+    "Let's build the GPT from scrtach.md",
+    "cp-algorithm",
+    "Let's build the GPT tokenizer from scratch.md",
     "Continuous Batching.md",
     "Let's reproduce GPT-2(124M).md",
-    "Let's build the GPT from scrtach.md",
+    "验证提示词技术.md",
+    "验证LLM的输出结果.md",
     "Flash-Attention.md",
     "assets/continuous batching orca.gif",
     "assets/continuous batching orca.gif.crdownload",
@@ -181,7 +164,6 @@
     "LLaMA3.1.md",
     "模型量化.md",
     "矩阵的内积、外积、哈达玛积和乘法.md",
-    "Let's build the GPT tokenizer from scratch.md",
     "LLM.int8() and Emergent Features.md",
     "assets/GPT2 Tokenizer BPE Regex.png",
     "zero2hero.md",
@@ -198,7 +180,6 @@
     "makemore series.md",
     "assets/Matrix Cookbook.pdf",
     "assets/LLM.int8() 矩阵乘法内部展示图.png",
-    "assets/Matrix Calculus - Notes on the derivative of a Trace.pdf",
     "Business/人们使用LLM做了什么.md",
     "Business/AI+商业.md",
     "Business/最后一英里.md",
@@ -206,8 +187,6 @@
     "assets/Batch Norm make Train Stable and Faster.png",
     "assets/Batch Norm Change Error Surface.png",
     "assets/pytorch cross_entropy function parameters.png",
-    "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
-    "makemore-MLP.md",
     "未命名.canvas"
   ]
 }
