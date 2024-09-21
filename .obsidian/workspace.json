@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76023c2905473b28",
+        "id": "cef23d45a675575c",
         "type": "tabs",
         "children": [
           {
-            "id": "b9e6786bccf177a5",
+            "id": "02f6d54a52ccf83a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,10 +139,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9e6786bccf177a5",
+  "active": "02f6d54a52ccf83a",
   "lastOpenFiles": [
-    "cp-algorithm/逆元、除法同余和容斥原理.md",
+    "cp-algorithm/高斯消元解决非方阵系统.md",
+    "paper  notes/Quiet-STaR.md",
     "cp-algorithm/无向图三元环数量.md",
+    "cp-algorithm/逆元、除法同余和容斥原理.md",
+    "paper  notes/assets/Quiet-STaR image 1.png",
+    "paper  notes/assets",
+    "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
     "Let's build the GPT from scrtach.md",
     "cp-algorithm",
     "Let's build the GPT tokenizer from scratch.md",
@@ -178,15 +183,10 @@
     "makemore-WaveNet.md",
     "makemore-Activations & Gradients, BatchNorm.md",
     "makemore series.md",
-    "assets/Matrix Cookbook.pdf",
     "assets/LLM.int8() 矩阵乘法内部展示图.png",
     "Business/人们使用LLM做了什么.md",
-    "Business/AI+商业.md",
-    "Business/最后一英里.md",
-    "Business/增长黑客说书会.md",
     "assets/Batch Norm make Train Stable and Faster.png",
     "assets/Batch Norm Change Error Surface.png",
-    "assets/pytorch cross_entropy function parameters.png",
     "未命名.canvas"
   ]
 }
