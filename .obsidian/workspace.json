@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4546484826d9d16",
+        "id": "d4281aa0129c1b48",
         "type": "tabs",
         "children": [
           {
-            "id": "66f5a3c0665bb73f",
+            "id": "a8b0d238af0ddfb2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66f5a3c0665bb73f",
+  "active": "a8b0d238af0ddfb2",
   "lastOpenFiles": [
+    "cp-algorithm/图的基环.md",
+    "cp-algorithm/快读和快写.md",
     "cp-algorithm/高斯消元算法模板解释.md",
     "cp-algorithm/加法线性基.md",
     "cp-algorithm/异或线性基.md",
@@ -182,8 +184,6 @@
     "code/GPT from scratch",
     "code",
     "assets/Transformer架构图.png",
-    "makemore-Becoming a Backprop Ninja.md",
-    "makemore-bigram.md",
     "assets/LLM.int8() 矩阵乘法内部展示图.png",
     "assets/Batch Norm make Train Stable and Faster.png",
     "assets/Batch Norm Change Error Surface.png",
