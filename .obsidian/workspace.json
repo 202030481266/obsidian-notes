@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4281aa0129c1b48",
+        "id": "37f054ec4aea5370",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b0d238af0ddfb2",
+            "id": "db67572f5525538c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8b0d238af0ddfb2",
+  "active": "db67572f5525538c",
   "lastOpenFiles": [
+    "cp-algorithm/判断负环.md",
+    "cp-algorithm/复杂度为O(mn)的树上背包.md",
+    "assets/树形背包.svg",
+    "cp-algorithm/01分数规划.md",
     "cp-algorithm/图的基环.md",
     "cp-algorithm/快读和快写.md",
     "cp-algorithm/高斯消元算法模板解释.md",
@@ -174,10 +178,7 @@
     "希腊字母表.md",
     "LLaMA3.1.md",
     "模型量化.md",
-    "矩阵的内积、外积、哈达玛积和乘法.md",
-    "LLM.int8() and Emergent Features.md",
     "assets/GPT2 Tokenizer BPE Regex.png",
-    "zero2hero.md",
     "code/GPT from scratch/infer.py",
     "code/GPT from scratch/build_dataset.py",
     "code/GPT from scratch/gpt.py",
@@ -186,7 +187,6 @@
     "assets/Transformer架构图.png",
     "assets/LLM.int8() 矩阵乘法内部展示图.png",
     "assets/Batch Norm make Train Stable and Faster.png",
-    "assets/Batch Norm Change Error Surface.png",
     "未命名.canvas"
   ]
 }
