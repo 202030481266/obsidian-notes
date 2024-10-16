@@ -4,8 +4,6 @@
 - [[makemore series]]
 - [[Let's build the GPT from scrtach]]
 - [[Let's build the GPT tokenizer from scratch]]
-- 
-
 
 # Office Repository
 
