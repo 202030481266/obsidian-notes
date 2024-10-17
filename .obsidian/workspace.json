@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5dbcc17e22747dd9",
+        "id": "55a617c1f324983d",
         "type": "tabs",
         "children": [
           {
-            "id": "fefbebecb429de0d",
+            "id": "b068df2000e64367",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fefbebecb429de0d",
+  "active": "b068df2000e64367",
   "lastOpenFiles": [
+    "paper  notes/HelpSteer2-Preference.md",
+    "数学概念/卡帕系数.md",
+    "数学概念",
     "paper  notes/DPO（直接偏好优化）.md",
     "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
     "paper  notes/Quiet-STaR.md",
@@ -166,8 +169,6 @@
     "assets/树形背包.svg",
     "cp-algorithm/01分数规划.md",
     "cp-algorithm/图的基环.md",
-    "cp-algorithm/快读和快写.md",
-    "cp-algorithm/高斯消元算法模板解释.md",
     "paper  notes/assets/Quiet-STaR image 1.png",
     "paper  notes/assets",
     "cp-algorithm",
@@ -183,7 +184,6 @@
     "code/GPT from scratch/build_dataset.py",
     "code/GPT from scratch/gpt.py",
     "code/GPT from scratch",
-    "code",
     "assets/Transformer架构图.png",
     "assets/LLM.int8() 矩阵乘法内部展示图.png",
     "assets/Batch Norm make Train Stable and Faster.png",
