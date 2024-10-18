@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "55a617c1f324983d",
+        "id": "875177fa564b6587",
         "type": "tabs",
         "children": [
           {
-            "id": "b068df2000e64367",
+            "id": "02777dff2709f31e",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -58,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -88,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -99,7 +109,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -110,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           }
         ]
@@ -139,8 +155,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b068df2000e64367",
+  "active": "02777dff2709f31e",
   "lastOpenFiles": [
+    "cp-algorithm/整数除法的向下和向上取整.md",
+    "cp-algorithm/扩展欧几里算法和二元一次方程.md",
+    "cp-algorithm/二分图最大匹配.md",
     "paper  notes/HelpSteer2-Preference.md",
     "数学概念/卡帕系数.md",
     "数学概念",
@@ -165,10 +184,7 @@
     "cp-algorithm/裴蜀定理、欧几里得算法和扩展欧几里得算法.md",
     "Business/人们使用LLM做了什么.md",
     "cp-algorithm/判断负环.md",
-    "cp-algorithm/复杂度为O(mn)的树上背包.md",
     "assets/树形背包.svg",
-    "cp-algorithm/01分数规划.md",
-    "cp-algorithm/图的基环.md",
     "paper  notes/assets/Quiet-STaR image 1.png",
     "paper  notes/assets",
     "cp-algorithm",
