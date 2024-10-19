@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "875177fa564b6587",
+        "id": "174fb61978778fd9",
         "type": "tabs",
         "children": [
           {
-            "id": "02777dff2709f31e",
+            "id": "2472296687715c6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cp-algorithm/扩展欧几里算法和二元一次方程.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "扩展欧几里算法和二元一次方程"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cp-algorithm/二分图最大匹配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "二分图最大匹配 的反向链接列表"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cp-algorithm/二分图最大匹配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "二分图最大匹配 的出链列表"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "cp-algorithm/二分图最大匹配.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "二分图最大匹配 的大纲"
             }
           }
         ]
@@ -155,11 +163,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02777dff2709f31e",
+  "active": "2472296687715c6c",
   "lastOpenFiles": [
     "cp-algorithm/整数除法的向下和向上取整.md",
     "cp-algorithm/扩展欧几里算法和二元一次方程.md",
     "cp-algorithm/二分图最大匹配.md",
+    "assets/HK 增广路 BFS树.drawio.svg",
+    "assets/HK augment path 2.svg",
+    "assets/HK augment path 2.svg.crdownload",
+    "assets/HK augment path 1.svg",
+    "assets/HK augment path 1.svg.crdownload",
     "paper  notes/HelpSteer2-Preference.md",
     "数学概念/卡帕系数.md",
     "数学概念",
@@ -183,7 +196,6 @@
     "SSH反向代理和转发.md",
     "cp-algorithm/裴蜀定理、欧几里得算法和扩展欧几里得算法.md",
     "Business/人们使用LLM做了什么.md",
-    "cp-algorithm/判断负环.md",
     "assets/树形背包.svg",
     "paper  notes/assets/Quiet-STaR image 1.png",
     "paper  notes/assets",
@@ -198,11 +210,6 @@
     "assets/GPT2 Tokenizer BPE Regex.png",
     "code/GPT from scratch/infer.py",
     "code/GPT from scratch/build_dataset.py",
-    "code/GPT from scratch/gpt.py",
-    "code/GPT from scratch",
-    "assets/Transformer架构图.png",
-    "assets/LLM.int8() 矩阵乘法内部展示图.png",
-    "assets/Batch Norm make Train Stable and Faster.png",
     "未命名.canvas"
   ]
 }
