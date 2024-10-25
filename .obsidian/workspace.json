@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cp-algorithm/中国剩余定理.md",
+                "file": "cp-algorithm/整数除法的向下和向上取整.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中国剩余定理"
+              "title": "整数除法的向下和向上取整"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "678fd03926d2a6d9",
   "lastOpenFiles": [
-    "__int128解决大数乘法.md",
     "cp-algorithm/中国剩余定理.md",
+    "__int128解决大数乘法.md",
     "cp-algorithm/扩展欧几里算法和二元一次方程.md",
     "cp-algorithm/整数除法的向下和向上取整.md",
     "cp-algorithm/二分图最大匹配.md",
