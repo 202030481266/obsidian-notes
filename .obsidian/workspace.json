@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "174fb61978778fd9",
+        "id": "a1303bdcf4a5c414",
         "type": "tabs",
         "children": [
           {
-            "id": "2472296687715c6c",
+            "id": "a8267e110bb5c9f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-algorithm/中国剩余定理.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "中国剩余定理"
-            }
-          },
-          {
-            "id": "678fd03926d2a6d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-algorithm/整数除法的向下和向上取整.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "整数除法的向下和向上取整"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,12 +159,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "678fd03926d2a6d9",
+  "active": "a8267e110bb5c9f1",
   "lastOpenFiles": [
+    "cp-algorithm/复杂度为O(mn)的树上背包.md",
+    "cp-algorithm/矩阵快速幂+优化DP.md",
     "cp-algorithm/中国剩余定理.md",
+    "希腊字母表.md",
+    "cp-algorithm/整数除法的向下和向上取整.md",
     "__int128解决大数乘法.md",
     "cp-algorithm/扩展欧几里算法和二元一次方程.md",
-    "cp-algorithm/整数除法的向下和向上取整.md",
     "cp-algorithm/二分图最大匹配.md",
     "assets/HK 增广路 BFS树.drawio.svg",
     "assets/HK augment path 2.svg",
@@ -196,7 +180,6 @@
     "paper  notes/DPO（直接偏好优化）.md",
     "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
     "paper  notes/Quiet-STaR.md",
-    "希腊字母表.md",
     "模型量化.md",
     "矩阵的内积、外积、哈达玛积和乘法.md",
     "makemore-Activations & Gradients, BatchNorm.md",
@@ -210,8 +193,6 @@
     "Ollama.md",
     "micrograd.md",
     "zero2hero.md",
-    "SSH反向代理和转发.md",
-    "cp-algorithm/裴蜀定理、欧几里得算法和扩展欧几里得算法.md",
     "assets/树形背包.svg",
     "paper  notes/assets/Quiet-STaR image 1.png",
     "paper  notes/assets",
