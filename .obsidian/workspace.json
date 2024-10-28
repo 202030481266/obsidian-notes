@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1303bdcf4a5c414",
+        "id": "041e7180d82b2855",
         "type": "tabs",
         "children": [
           {
-            "id": "a8267e110bb5c9f1",
+            "id": "c5edc32ff0194b19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cp-algorithm/逆元、除法同余和容斥原理.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "逆元、除法同余和容斥原理"
             }
           }
         ]
@@ -159,14 +163,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8267e110bb5c9f1",
+  "active": "c5edc32ff0194b19",
   "lastOpenFiles": [
-    "cp-algorithm/复杂度为O(mn)的树上背包.md",
+    "cp-algorithm/卡特兰数.md",
     "cp-algorithm/矩阵快速幂+优化DP.md",
+    "cp-algorithm/复杂度为O(mn)的树上背包.md",
     "cp-algorithm/中国剩余定理.md",
     "希腊字母表.md",
     "cp-algorithm/整数除法的向下和向上取整.md",
-    "__int128解决大数乘法.md",
+    "cp-algorithm/__int128解决大数乘法.md",
     "cp-algorithm/扩展欧几里算法和二元一次方程.md",
     "cp-algorithm/二分图最大匹配.md",
     "assets/HK 增广路 BFS树.drawio.svg",
@@ -192,7 +197,6 @@
     "验证提示词技术.md",
     "Ollama.md",
     "micrograd.md",
-    "zero2hero.md",
     "assets/树形背包.svg",
     "paper  notes/assets/Quiet-STaR image 1.png",
     "paper  notes/assets",
