@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1fcae357d794eb91",
+        "id": "a7b42e81ca981638",
         "type": "tabs",
         "children": [
           {
-            "id": "6c9628ba9527a613",
+            "id": "e7f2a307955cdb7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-algorithm/二项式定理反演.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "二项式定理反演"
+              "title": "新标签页"
             }
           }
         ]
@@ -163,23 +159,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c9628ba9527a613",
+  "active": "e7f2a307955cdb7c",
   "lastOpenFiles": [
-    "cp-algorithm/二项式定理证明.md",
+    "cp-algorithm/复杂度为O(mn)的树上背包.md",
     "cp-algorithm/二项式定理反演.md",
-    "cp-algorithm/同余最短路.md",
+    "cp-algorithm/负环和差分约束.md",
     "cp-algorithm/整数除法的向下和向上取整.md",
+    "cp-algorithm/二项式定理证明.md",
+    "cp-algorithm/同余最短路.md",
     "cp-algorithm/中国剩余定理.md",
     "Business/商业领域的9大选择题.md",
     "Business/人们使用LLM做了什么.md",
     "Business/增长黑客说书会.md",
     "Business/最后一英里.md",
     "Business/AI+商业.md",
-    "cp-algorithm/负环和差分约束.md",
     "cp-algorithm/卡特兰数.md",
     "cp-algorithm/逆元、除法同余和容斥原理.md",
     "cp-algorithm/矩阵快速幂+优化DP.md",
-    "cp-algorithm/复杂度为O(mn)的树上背包.md",
     "希腊字母表.md",
     "cp-algorithm/__int128解决大数乘法.md",
     "cp-algorithm/扩展欧几里算法和二元一次方程.md",
