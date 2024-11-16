@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a7b42e81ca981638",
+        "id": "e87935299885f5b4",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f2a307955cdb7c",
+            "id": "591e1b554d29c115",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cp-algorithm/二分图最大匹配.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "二分图最大匹配"
             }
           }
         ]
@@ -159,7 +163,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7f2a307955cdb7c",
+  "active": "591e1b554d29c115",
   "lastOpenFiles": [
     "cp-algorithm/复杂度为O(mn)的树上背包.md",
     "cp-algorithm/二项式定理反演.md",
