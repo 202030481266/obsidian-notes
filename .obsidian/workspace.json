@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cp-algorithm/二分图最大匹配.md",
+                "file": "cp-algorithm/康托展开、约瑟夫环、完美洗牌.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二分图最大匹配"
+              "title": "康托展开、约瑟夫环、完美洗牌"
             }
           }
         ]
@@ -165,6 +165,8 @@
   },
   "active": "591e1b554d29c115",
   "lastOpenFiles": [
+    "cp-algorithm/二分图最大匹配.md",
+    "cp-algorithm/康托展开、约瑟夫环、完美洗牌.md",
     "cp-algorithm/复杂度为O(mn)的树上背包.md",
     "cp-algorithm/二项式定理反演.md",
     "cp-algorithm/负环和差分约束.md",
@@ -183,7 +185,6 @@
     "希腊字母表.md",
     "cp-algorithm/__int128解决大数乘法.md",
     "cp-algorithm/扩展欧几里算法和二元一次方程.md",
-    "cp-algorithm/二分图最大匹配.md",
     "assets/HK 增广路 BFS树.drawio.svg",
     "assets/HK augment path 2.svg",
     "assets/HK augment path 2.svg.crdownload",
@@ -196,7 +197,6 @@
     "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
     "paper  notes/Quiet-STaR.md",
     "模型量化.md",
-    "矩阵的内积、外积、哈达玛积和乘法.md",
     "assets/树形背包.svg",
     "paper  notes/assets/Quiet-STaR image 1.png",
     "paper  notes/assets",
