@@ -11,10 +11,14 @@
             "id": "8e41f92099953be6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cp-algorithm/笛卡尔树.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "笛卡尔树"
             }
           }
         ]
@@ -161,7 +165,9 @@
   },
   "active": "8e41f92099953be6",
   "lastOpenFiles": [
+    "cp-algorithm/assets/笛卡尔树.png",
     "cp-algorithm/笛卡尔树.md",
+    "cp-algorithm/assets",
     "cp-algorithm/替罪羊树.md",
     "cp-algorithm/康托展开、约瑟夫环、完美洗牌.md",
     "cp-algorithm/二分图最大匹配.md",
@@ -192,7 +198,6 @@
     "数学概念/卡帕系数.md",
     "数学概念",
     "paper  notes/DPO（直接偏好优化）.md",
-    "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
     "assets/树形背包.svg",
     "paper  notes/assets/Quiet-STaR image 1.png",
     "paper  notes/assets",
@@ -204,9 +209,7 @@
     "assets/Transformer多头注意力矩阵乘法.svg",
     "assets/Transformer多头注意力矩阵乘法.drawio",
     "assets/ssh反向代理.svg",
-    "assets/GPT2 Tokenizer BPE Regex.png",
     "code/GPT from scratch/infer.py",
-    "code/GPT from scratch/build_dataset.py",
     "未命名.canvas"
   ]
 }
