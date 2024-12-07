@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f21c46fcc9b7b096",
+        "id": "64396ec9718d2508",
         "type": "tabs",
         "children": [
           {
-            "id": "8e41f92099953be6",
+            "id": "c927f36de8902893",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-algorithm/笛卡尔树.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "笛卡尔树"
+              "title": "新标签页"
             }
           }
         ]
@@ -163,10 +159,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e41f92099953be6",
+  "active": "c927f36de8902893",
   "lastOpenFiles": [
-    "cp-algorithm/assets/笛卡尔树.png",
+    "cp-algorithm/启发思考法.md",
     "cp-algorithm/笛卡尔树.md",
+    "cp-algorithm/assets/笛卡尔树.png",
     "cp-algorithm/assets",
     "cp-algorithm/替罪羊树.md",
     "cp-algorithm/康托展开、约瑟夫环、完美洗牌.md",
