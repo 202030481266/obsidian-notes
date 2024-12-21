@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "28983ee165948eb6",
+        "id": "a17979ad521ccf2d",
         "type": "tabs",
         "children": [
           {
-            "id": "d0f29589dd62173a",
+            "id": "ffc7fd0dcd702202",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "模型量化",
+                "query": "单调",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,10 +159,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0f29589dd62173a",
+  "active": "ffc7fd0dcd702202",
   "lastOpenFiles": [
-    "cp-algorithm/左偏树.md",
     "cp-algorithm/单调回归（Isotonic Regression）问题.md",
+    "cp-algorithm/左偏树.md",
     "cp-algorithm/二项式定理反演.md",
     "cp-algorithm/二分图最大匹配.md",
     "cp-algorithm/无向图三元环数量.md",
