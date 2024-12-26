@@ -18,7 +18,7 @@
 
 一般来说使用HF提供的转换脚本`convert_llama_weights_to_hf.py` 来完成，具体的可以操作参考llama-recipes这个项目的一个操作，不过如果有conda环境也可以直接找到这个转换的脚本，然后运行就可以了（不需要重复下载一些必要的库）。
 
-[convert_llama_weights_to_hf.py](./assets/convert_llama_weights_to_hf.py)
+[convert_llama_weights_to_hf.py](convert_llama_weights_to_hf.py)
 
 使用方法的命令一般都是：
 
