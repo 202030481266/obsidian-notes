@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c847adfa343c2cf9",
+        "id": "5629f70bdeda6b4c",
         "type": "tabs",
         "children": [
           {
-            "id": "8397f6f0d2c086e6",
+            "id": "59f1b84ef61c817d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deeplearning/Jieba分词器.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Jieba分词器"
+              "title": "新标签页"
             }
           }
         ]
@@ -154,6 +150,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -163,10 +160,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8397f6f0d2c086e6",
+  "active": "59f1b84ef61c817d",
   "lastOpenFiles": [
-    "HMM.md",
+    "数学概念/关键词抽取算法.md",
     "deeplearning/Jieba分词器.md",
+    "HMM.md",
     "工程技术",
     "deeplearning",
     "数学概念/卡帕系数.md",
@@ -194,7 +192,6 @@
     "cp-algorithm/负环和差分约束.md",
     "cp-algorithm/整数除法的向下和向上取整.md",
     "cp-algorithm/二项式定理证明.md",
-    "cp-algorithm/中国剩余定理.md",
     "assets/HK 增广路 BFS树.drawio.svg",
     "assets/HK augment path 2.svg",
     "assets/HK augment path 2.svg.crdownload",
