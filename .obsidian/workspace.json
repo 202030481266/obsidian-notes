@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a17979ad521ccf2d",
+        "id": "4541f49e3d117456",
         "type": "tabs",
         "children": [
           {
-            "id": "ffc7fd0dcd702202",
+            "id": "281f7514bd3a651e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "数学概念/常见的检索评测指标.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常见的检索评测指标"
             }
           }
         ]
@@ -159,8 +163,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffc7fd0dcd702202",
+  "active": "281f7514bd3a651e",
   "lastOpenFiles": [
+    "数学概念/常见的检索评测指标.md",
+    "Business/人们使用LLM做了什么.md",
+    "数学概念/卡帕系数.md",
+    "makemore-WaveNet.md",
+    "paper  notes/Quiet-STaR.md",
+    "paper  notes/HelpSteer2-Preference.md",
+    "paper  notes/DPO（直接偏好优化）.md",
+    "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
     "cp-algorithm/单调回归（Isotonic Regression）问题.md",
     "cp-algorithm/左偏树.md",
     "cp-algorithm/二项式定理反演.md",
@@ -180,15 +192,7 @@
     "cp-algorithm/二项式定理证明.md",
     "cp-algorithm/中国剩余定理.md",
     "Business/商业领域的9大选择题.md",
-    "Business/人们使用LLM做了什么.md",
     "Business/增长黑客说书会.md",
-    "Business/最后一英里.md",
-    "Business/AI+商业.md",
-    "cp-algorithm/卡特兰数.md",
-    "cp-algorithm/逆元、除法同余和容斥原理.md",
-    "cp-algorithm/矩阵快速幂+优化DP.md",
-    "希腊字母表.md",
-    "cp-algorithm/__int128解决大数乘法.md",
     "assets/HK 增广路 BFS树.drawio.svg",
     "assets/HK augment path 2.svg",
     "assets/HK augment path 2.svg.crdownload",
