@@ -166,8 +166,11 @@
   },
   "active": "c4ee877b26558148",
   "lastOpenFiles": [
-    "assets/可持久化左偏树.jpg",
+    "cp-algorithm/assets/k短路——搜索策略.png",
     "cp-algorithm/左偏树.md",
+    "cp-algorithm/assets/k短路——左偏树合并.png",
+    "cp-algorithm/assets/k短路——非树边建模.png",
+    "assets/可持久化左偏树.jpg",
     "cp-algorithm/延迟标记（Lazy Propagation）维护数据结构.md",
     "cp-algorithm/二项式定理反演.md",
     "deeplearning/Jieba分词器.md",
@@ -206,12 +209,8 @@
     "paper  notes/assets/Quiet-STaR image 1.png",
     "paper  notes/assets",
     "cp-algorithm",
-    "assets/continuous batching orca.gif",
     "assets/continuous batching orca.gif.crdownload",
-    "assets/diagram-static-batching.png",
     "assets/diagram-static-batching.png.crdownload",
-    "assets/Transformer多头注意力矩阵乘法.svg",
-    "assets/ssh反向代理.svg",
     "未命名.canvas"
   ]
 }
