@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f75943e515c15a9c",
+        "id": "3013e30906432632",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ee877b26558148",
+            "id": "6ff3750285534737",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-algorithm/左偏树.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "左偏树"
+              "title": "新标签页"
             }
           }
         ]
@@ -164,10 +160,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4ee877b26558148",
+  "active": "f08620785d0bc71a",
   "lastOpenFiles": [
-    "cp-algorithm/assets/k短路——搜索策略.png",
     "cp-algorithm/左偏树.md",
+    "cp-algorithm/assets/k短路——搜索策略.png",
     "cp-algorithm/assets/k短路——左偏树合并.png",
     "cp-algorithm/assets/k短路——非树边建模.png",
     "assets/可持久化左偏树.jpg",
