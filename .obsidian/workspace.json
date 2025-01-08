@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcc19e3b4e7f30b3",
+        "id": "c471feffe19eb57f",
         "type": "tabs",
         "children": [
           {
-            "id": "2879f71564f53b2a",
+            "id": "345760d13f017537",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,12 @@
   },
   "active": "f08620785d0bc71a",
   "lastOpenFiles": [
-    "数学概念/常见的检索评测指标.md",
+    "cp-algorithm/assets/带权并查集合并操作.png",
+    "cp-algorithm/带权并查集.md",
+    "cp-algorithm/assets/带权并查集 食物链.png",
+    "工程技术/未命名.md",
     "数学概念/关键词抽取算法.md",
+    "数学概念/常见的检索评测指标.md",
     "数学概念/矩阵的内积、外积、哈达玛积和乘法.md",
     "数学概念/卡帕系数.md",
     "deeplearning/Jieba分词器.md",
@@ -191,10 +195,7 @@
     "cp-algorithm/二分图最大匹配.md",
     "cp-algorithm/无向图三元环数量.md",
     "cp-algorithm/同余最短路.md",
-    "cp-algorithm/替罪羊树.md",
     "cp-algorithm/assets/笛卡尔树.png",
-    "cp-algorithm/启发思考法.md",
-    "cp-algorithm/FHQ Treap.md",
     "cp-algorithm/assets",
     "assets/HK 增广路 BFS树.drawio.svg",
     "assets/HK augment path 2.svg",
@@ -202,8 +203,6 @@
     "assets/HK augment path 1.svg",
     "assets/HK augment path 1.svg.crdownload",
     "数学概念",
-    "assets/树形背包.svg",
-    "paper  notes/assets/Quiet-STaR image 1.png",
     "paper  notes/assets",
     "cp-algorithm",
     "assets/continuous batching orca.gif.crdownload",
