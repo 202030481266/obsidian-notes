@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cp-algorithm/可持久化线段树.md",
+                "file": "cp-algorithm/可持久化Trie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可持久化线段树"
+              "title": "可持久化Trie"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -154,19 +154,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "85286d66ca53e7d6",
   "lastOpenFiles": [
     "cp-algorithm/可持久化线段树.md",
+    "cp-algorithm/可持久化Trie.md",
     "cp-algorithm/左偏树.md",
     "cp-algorithm/assets/带权并查集合并操作.png",
     "cp-algorithm/带权并查集.md",
@@ -199,7 +200,6 @@
     "cp-algorithm/单调回归（Isotonic Regression）问题.md",
     "cp-algorithm/二分图最大匹配.md",
     "cp-algorithm/无向图三元环数量.md",
-    "cp-algorithm/同余最短路.md",
     "cp-algorithm/assets/笛卡尔树.png",
     "cp-algorithm/assets",
     "assets/HK 增广路 BFS树.drawio.svg",
