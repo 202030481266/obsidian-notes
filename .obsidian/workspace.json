@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25a8d6fdd3fd8792",
+        "id": "5a05b7bfefecde4a",
         "type": "tabs",
         "children": [
           {
-            "id": "85286d66ca53e7d6",
+            "id": "2b597cb09f93849b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-algorithm/可持久化Trie.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "可持久化Trie"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 238.5
   },
   "right": {
     "id": "87419be2d622fda6",
@@ -164,10 +161,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85286d66ca53e7d6",
+  "active": "2b597cb09f93849b",
   "lastOpenFiles": [
-    "cp-algorithm/可持久化线段树.md",
+    "deeplearning/MFA强制语音对齐.md",
+    "HMM.md",
+    "deeplearning/Jieba分词器.md",
+    "cp-algorithm/01分数规划.md",
+    "工程技术/希腊字母表.md",
+    "工程技术/Ollama.md",
+    "数学概念/卡帕系数.md",
+    "paper  notes/Quiet-STaR.md",
+    "paper  notes/HelpSteer2-Preference.md",
+    "paper  notes/DPO（直接偏好优化）.md",
+    "deeplearning/模型量化.md",
+    "deeplearning/makemore-Activations & Gradients, BatchNorm.md",
+    "deeplearning/makemore-MLP.md",
+    "deeplearning/makemore-bigram.md",
+    "deeplearning/makemore-Becoming a Backprop Ninja.md",
     "cp-algorithm/可持久化Trie.md",
+    "cp-algorithm/可持久化线段树.md",
     "cp-algorithm/左偏树.md",
     "cp-algorithm/assets/带权并查集合并操作.png",
     "cp-algorithm/带权并查集.md",
@@ -176,30 +188,15 @@
     "数学概念/关键词抽取算法.md",
     "数学概念/常见的检索评测指标.md",
     "数学概念/矩阵的内积、外积、哈达玛积和乘法.md",
-    "数学概念/卡帕系数.md",
-    "deeplearning/Jieba分词器.md",
-    "工程技术/希腊字母表.md",
     "工程技术/SSH反向代理和转发.md",
     "工程技术/验证提示词技术.md",
-    "工程技术/Ollama.md",
     "cp-algorithm/assets/k短路——搜索策略.png",
     "cp-algorithm/assets/k短路——左偏树合并.png",
     "cp-algorithm/assets/k短路——非树边建模.png",
     "assets/可持久化左偏树.jpg",
     "cp-algorithm/延迟标记（Lazy Propagation）维护数据结构.md",
-    "cp-algorithm/二项式定理反演.md",
-    "HMM.md",
     "工程技术",
     "deeplearning",
-    "deeplearning/makemore-WaveNet.md",
-    "Business/人们使用LLM做了什么.md",
-    "paper  notes/Quiet-STaR.md",
-    "paper  notes/HelpSteer2-Preference.md",
-    "paper  notes/DPO（直接偏好优化）.md",
-    "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
-    "cp-algorithm/单调回归（Isotonic Regression）问题.md",
-    "cp-algorithm/二分图最大匹配.md",
-    "cp-algorithm/无向图三元环数量.md",
     "cp-algorithm/assets/笛卡尔树.png",
     "cp-algorithm/assets",
     "assets/HK 增广路 BFS树.drawio.svg",
