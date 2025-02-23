@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a05b7bfefecde4a",
+        "id": "3ee49b75d45c7743",
         "type": "tabs",
         "children": [
           {
-            "id": "2b597cb09f93849b",
+            "id": "c4a0008abbac7a1c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b597cb09f93849b",
+  "active": "c4a0008abbac7a1c",
   "lastOpenFiles": [
+    "cp-algorithm/高效计算点集中的曼哈顿距离.md",
+    "cp-algorithm/中国剩余定理.md",
     "deeplearning/MFA强制语音对齐.md",
     "HMM.md",
     "deeplearning/Jieba分词器.md",
@@ -189,12 +191,10 @@
     "数学概念/常见的检索评测指标.md",
     "数学概念/矩阵的内积、外积、哈达玛积和乘法.md",
     "工程技术/SSH反向代理和转发.md",
-    "工程技术/验证提示词技术.md",
     "cp-algorithm/assets/k短路——搜索策略.png",
     "cp-algorithm/assets/k短路——左偏树合并.png",
     "cp-algorithm/assets/k短路——非树边建模.png",
     "assets/可持久化左偏树.jpg",
-    "cp-algorithm/延迟标记（Lazy Propagation）维护数据结构.md",
     "工程技术",
     "deeplearning",
     "cp-algorithm/assets/笛卡尔树.png",
