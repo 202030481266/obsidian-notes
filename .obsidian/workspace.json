@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee49b75d45c7743",
+        "id": "41a072163e6ce180",
         "type": "tabs",
         "children": [
           {
-            "id": "c4a0008abbac7a1c",
+            "id": "20460e6a255c6723",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 275.5
   },
   "right": {
     "id": "87419be2d622fda6",
@@ -161,8 +161,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4a0008abbac7a1c",
+  "active": "20460e6a255c6723",
   "lastOpenFiles": [
+    "cp-algorithm/树套树.md",
+    "cp-algorithm/启发思考法.md",
+    "cp-algorithm/二项式定理反演.md",
     "cp-algorithm/高效计算点集中的曼哈顿距离.md",
     "cp-algorithm/中国剩余定理.md",
     "deeplearning/MFA强制语音对齐.md",
@@ -188,9 +191,6 @@
     "cp-algorithm/assets/带权并查集 食物链.png",
     "工程技术/未命名.md",
     "数学概念/关键词抽取算法.md",
-    "数学概念/常见的检索评测指标.md",
-    "数学概念/矩阵的内积、外积、哈达玛积和乘法.md",
-    "工程技术/SSH反向代理和转发.md",
     "cp-algorithm/assets/k短路——搜索策略.png",
     "cp-algorithm/assets/k短路——左偏树合并.png",
     "cp-algorithm/assets/k短路——非树边建模.png",
