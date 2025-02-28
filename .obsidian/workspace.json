@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "001d5a55370ea45b",
+        "id": "e45628ce40e368ef",
         "type": "tabs",
         "children": [
           {
-            "id": "9950e3f30b71ebae",
+            "id": "7723b8522fb373cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "deeplearning/强化学习-PONG 游戏代码解读.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "强化学习-PONG 游戏代码解读"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 265.5
   },
   "right": {
     "id": "87419be2d622fda6",
@@ -161,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9950e3f30b71ebae",
+  "active": "7723b8522fb373cd",
   "lastOpenFiles": [
     "deeplearning/强化学习-PONG 游戏代码解读.md",
     "deeplearning/makemore-Becoming a Backprop Ninja.md",
