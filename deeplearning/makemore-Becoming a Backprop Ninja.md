@@ -43,4 +43,39 @@ $$\mathrm{d}f=\mathrm{d}\left(\operatorname{tr}f\right)=\operatorname{tr}\left(\
 
 **特别地，若矩阵退化为向量，对照导数与微分的联系，也同样的能得到导数。** 如果是复合的函数情形，那么就要使用基于微分的链式法则来进行求导。（==强烈推荐看上面的Recommend Materials==)。
 
+### 一些常用的矩阵微分运算法则
+
+1. 加法法则：$d(X \pm Y) = dX \pm dY$
+
+2. 矩阵乘法：$d(XY) = (dX)Y + X(dY)$
+
+3. 转置：$d(X^T) = (dX)^T$
+
+4. 迹：$d \operatorname{tr}(X) = \operatorname{tr}(dX)$
+
+5. 矩阵乘积：$d(X \circ Y) = dX \circ Y + X \circ dY$，※表示只对相同的矩阵 $X, Y$ 逐元素相乘。
+
+6. 逆：$dX^{-1} = -X^{-1}(dX)X^{-1}$。此式只在 $XX^{-1} = I$ 两侧矩阵分解运用于。
+
+7. 行列式：$d|X| = \operatorname{tr}(X^\# dX)$，其中 $X^\#$ 表示 $X$ 的伴随矩阵，在 $X$ 可逆的只可应用
+   $d|X| = |X| \operatorname{tr}(X^{-1} dX)$。
+
+8. 矩阵跟踪微分：$d\sigma(X) = \sigma'(X) \circ dX$，$\sigma(X) = [\sigma(X_{ij})]$ 是矩阵特征值函数，
+   $\sigma'(X) = [\sigma'(X_{ij})]$ 是矩阵特征导数。
+
+例如：
+$$
+X = \begin{bmatrix} X_{11} & X_{12} \\ X_{21} & X_{22} \end{bmatrix}, d \sin(X) = \begin{bmatrix} \cos X_{11} dX_{11} & \cos X_{12} dX_{12} \\ \cos X_{21} dX_{21} & \cos X_{22} dX_{22} \end{bmatrix} = \cos(X) \circ dX
+$$
+### 迹的运用技巧
+
+标量的迹等于自身：$a = \operatorname{tr}(a)$。
+
+转置：$\operatorname{tr}(A^T) = \operatorname{tr}(A)$。
+
+线性：$\operatorname{tr}(A \pm B) = \operatorname{tr}(A) \pm \operatorname{tr}(B)$。
+
+交换性：$\operatorname{tr}(AB) = \operatorname{tr}(BA)$，其中 $A$ 与 $B^T$ 尺寸相同。两侧矩阵等于 $\sum_{i,j} A_{ij} B_{ji}$。
+
+矩阵乘法/矩阵乘积交换性：$\operatorname{tr}(A^T (B \circ C)) = \operatorname{tr}((A \circ B)^T C)$，其中 $A, B, C$ 尺寸相同。两侧矩阵等于 $\sum_{i,j} A_{ij} B_{ij} C_{ij}$。
 

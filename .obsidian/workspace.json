@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41a072163e6ce180",
+        "id": "001d5a55370ea45b",
         "type": "tabs",
         "children": [
           {
-            "id": "20460e6a255c6723",
+            "id": "9950e3f30b71ebae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 206.5
   },
   "right": {
     "id": "87419be2d622fda6",
@@ -161,14 +161,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20460e6a255c6723",
+  "active": "9950e3f30b71ebae",
   "lastOpenFiles": [
+    "deeplearning/强化学习-PONG 游戏代码解读.md",
+    "deeplearning/makemore-Becoming a Backprop Ninja.md",
+    "cp-algorithm/矩阵快速幂+优化DP.md",
+    "cp-algorithm/常用的位运算.md",
+    "deeplearning/MFA强制语音对齐.md",
     "cp-algorithm/树套树.md",
     "cp-algorithm/启发思考法.md",
     "cp-algorithm/二项式定理反演.md",
     "cp-algorithm/高效计算点集中的曼哈顿距离.md",
     "cp-algorithm/中国剩余定理.md",
-    "deeplearning/MFA强制语音对齐.md",
     "HMM.md",
     "deeplearning/Jieba分词器.md",
     "cp-algorithm/01分数规划.md",
@@ -182,15 +186,11 @@
     "deeplearning/makemore-Activations & Gradients, BatchNorm.md",
     "deeplearning/makemore-MLP.md",
     "deeplearning/makemore-bigram.md",
-    "deeplearning/makemore-Becoming a Backprop Ninja.md",
     "cp-algorithm/可持久化Trie.md",
     "cp-algorithm/可持久化线段树.md",
     "cp-algorithm/左偏树.md",
     "cp-algorithm/assets/带权并查集合并操作.png",
-    "cp-algorithm/带权并查集.md",
     "cp-algorithm/assets/带权并查集 食物链.png",
-    "工程技术/未命名.md",
-    "数学概念/关键词抽取算法.md",
     "cp-algorithm/assets/k短路——搜索策略.png",
     "cp-algorithm/assets/k短路——左偏树合并.png",
     "cp-algorithm/assets/k短路——非树边建模.png",
