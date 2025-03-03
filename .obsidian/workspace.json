@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71f47222af1d1c2a",
+        "id": "f72fbeafccd9d096",
         "type": "tabs",
         "children": [
           {
-            "id": "5b99aad55c17eb6c",
+            "id": "b75ae43b835a0590",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b99aad55c17eb6c",
+  "active": "f08620785d0bc71a",
   "lastOpenFiles": [
+    "RL/IntroRL/马尔科夫决策过程.md",
+    "RL/IntroRL/lecture2.pdf",
+    "deeplearning/makemore-WaveNet.md",
+    "RL/IntroRL/强化学习-PONG 游戏代码解读.md",
     "RL/IntroRL/lecture9.pdf",
     "RL/IntroRL/lecture8.pdf",
     "RL/IntroRL/lecture7.pdf",
@@ -170,11 +174,8 @@
     "RL/IntroRL/lecture5.pdf",
     "RL/IntroRL/lecture4.pdf",
     "RL/IntroRL/lecture3.pdf",
-    "RL/IntroRL/lecture2.pdf",
     "RL/IntroRL/lecture1.pdf",
     "RL/IntroRL/lecture_alphastar.pdf",
-    "RL/IntroRL/lecture10.pdf",
-    "deeplearning/强化学习-PONG 游戏代码解读.md",
     "deeplearning/makemore-Becoming a Backprop Ninja.md",
     "cp-algorithm/矩阵快速幂+优化DP.md",
     "cp-algorithm/常用的位运算.md",
@@ -197,8 +198,6 @@
     "deeplearning/makemore-Activations & Gradients, BatchNorm.md",
     "deeplearning/makemore-MLP.md",
     "deeplearning/makemore-bigram.md",
-    "cp-algorithm/可持久化Trie.md",
-    "cp-algorithm/可持久化线段树.md",
     "cp-algorithm/assets/带权并查集合并操作.png",
     "cp-algorithm/assets/带权并查集 食物链.png",
     "cp-algorithm/assets/k短路——搜索策略.png",
