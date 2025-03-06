@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "13aa52ffbdc5ca17",
+        "id": "345798a0c5605e3b",
         "type": "tabs",
         "children": [
           {
-            "id": "60524502af0b603e",
+            "id": "ea8b207f6db772a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cp-algorithm/树链剖分.md",
+                "file": "deeplearning/ROPE 旋转位置编码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "树链剖分"
+              "title": "ROPE 旋转位置编码"
             }
           }
         ]
@@ -165,17 +165,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60524502af0b603e",
+  "active": "ea8b207f6db772a8",
   "lastOpenFiles": [
-    "cp-algorithm/assets/轻重链剖分.png",
+    "deeplearning/assets/ROPE 线性插值.png",
+    "deeplearning/ROPE 旋转位置编码.md",
+    "deeplearning/assets",
+    "数学概念/卡帕系数.md",
+    "数学概念/矩阵的内积、外积、哈达玛积和乘法.md",
+    "cp-algorithm/判断负环.md",
+    "cp-algorithm/单调回归（Isotonic Regression）问题.md",
+    "cp-algorithm/康托展开、约瑟夫环、完美洗牌.md",
+    "deeplearning/MFA强制语音对齐.md",
+    "cp-algorithm/逆元、除法同余和容斥原理.md",
+    "cp-algorithm/扩展欧几里算法和二元一次方程.md",
+    "cp-algorithm/快读和快写.md",
+    "cp-algorithm/FHQ Treap.md",
+    "cp-algorithm/左偏树.md",
+    "cp-algorithm/中国剩余定理.md",
+    "cp-algorithm/延迟标记（Lazy Propagation）维护数据结构.md",
+    "cp-algorithm/无向图三元环数量.md",
+    "cp-algorithm/图的基环.md",
+    "cp-algorithm/替罪羊树.md",
+    "cp-algorithm/树套树.md",
+    "cp-algorithm/二项式定理证明.md",
+    "cp-algorithm/常用的位运算.md",
+    "cp-algorithm/01分数规划.md",
     "cp-algorithm/树链剖分.md",
+    "cp-algorithm/assets/轻重链剖分.png",
     "cp-algorithm/启发思考法.md",
     "deeplearning/DeepSeek MLA.md",
-    "数学概念/矩阵的内积、外积、哈达玛积和乘法.md",
     "RL/IntroRL/马尔科夫决策过程.md",
     "RL/IntroRL/lecture2.pdf",
-    "deeplearning/makemore-WaveNet.md",
-    "RL/IntroRL/强化学习-PONG 游戏代码解读.md",
     "RL/IntroRL/lecture9.pdf",
     "RL/IntroRL/lecture8.pdf",
     "RL/IntroRL/lecture7.pdf",
@@ -184,25 +204,6 @@
     "RL/IntroRL/lecture4.pdf",
     "RL/IntroRL/lecture3.pdf",
     "RL/IntroRL/lecture1.pdf",
-    "RL/IntroRL/lecture_alphastar.pdf",
-    "deeplearning/makemore-Becoming a Backprop Ninja.md",
-    "cp-algorithm/矩阵快速幂+优化DP.md",
-    "cp-algorithm/常用的位运算.md",
-    "deeplearning/MFA强制语音对齐.md",
-    "cp-algorithm/树套树.md",
-    "cp-algorithm/二项式定理反演.md",
-    "cp-algorithm/高效计算点集中的曼哈顿距离.md",
-    "cp-algorithm/中国剩余定理.md",
-    "HMM.md",
-    "deeplearning/Jieba分词器.md",
-    "cp-algorithm/01分数规划.md",
-    "工程技术/希腊字母表.md",
-    "工程技术/Ollama.md",
-    "数学概念/卡帕系数.md",
-    "paper  notes/Quiet-STaR.md",
-    "paper  notes/HelpSteer2-Preference.md",
-    "paper  notes/DPO（直接偏好优化）.md",
-    "deeplearning/模型量化.md",
     "cp-algorithm/assets/带权并查集合并操作.png",
     "cp-algorithm/assets/带权并查集 食物链.png",
     "cp-algorithm/assets/k短路——搜索策略.png",
@@ -211,7 +212,6 @@
     "assets/可持久化左偏树.jpg",
     "cp-algorithm/assets/笛卡尔树.png",
     "assets/HK 增广路 BFS树.drawio.svg",
-    "assets/HK augment path 2.svg",
     "未命名.canvas"
   ]
 }
