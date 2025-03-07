@@ -3,6 +3,7 @@
 ROPE作者：[Transformer升级之路：10、RoPE是一种β进制编码](https://kexue.fm/archives/9675)
 解读好文1：[RoPE 相对位置编码解读与外推性研究](https://blog.csdn.net/weixin_43378396/article/details/138977299)
 解读好文2：[RoPE + 位置线性内插](https://blog.csdn.net/weixin_43378396/article/details/139010288)
+解读好文3：[十分钟读懂旋转编码（RoPE）](https://zhuanlan.zhihu.com/p/647109286)
 讲解视频：[你还不懂旋转位置编码吗？](https://www.bilibili.com/video/BV1F1421B7iv/)
 拓展阅读：[Extending the RoPE](https://blog.eleuther.ai/yarn/)
 
