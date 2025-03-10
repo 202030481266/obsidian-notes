@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73c2bab8b5dbfa9c",
+        "id": "f2cd63c62b94c227",
         "type": "tabs",
         "children": [
           {
-            "id": "32c8361faa40e274",
+            "id": "5621b373a23cd384",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deeplearning/ROPE 旋转位置编码.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ROPE 旋转位置编码"
+              "title": "New tab"
             }
           }
         ]
@@ -165,8 +161,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32c8361faa40e274",
+  "active": "5621b373a23cd384",
   "lastOpenFiles": [
+    "deeplearning/矩阵乘法技巧.md",
+    "deeplearning/DeepSeek MLA.md",
+    "deeplearning/深度学习的优化算法.md",
     "deeplearning/ROPE 旋转位置编码.md",
     "deeplearning/assets/ROPE 线性插值.png",
     "deeplearning/assets",
@@ -193,8 +192,6 @@
     "cp-algorithm/树链剖分.md",
     "cp-algorithm/assets/轻重链剖分.png",
     "cp-algorithm/启发思考法.md",
-    "deeplearning/DeepSeek MLA.md",
-    "RL/IntroRL/马尔科夫决策过程.md",
     "RL/IntroRL/lecture2.pdf",
     "RL/IntroRL/lecture9.pdf",
     "RL/IntroRL/lecture8.pdf",
