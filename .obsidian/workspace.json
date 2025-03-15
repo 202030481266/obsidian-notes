@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2cd63c62b94c227",
+        "id": "24b42499ed2361c2",
         "type": "tabs",
         "children": [
           {
-            "id": "5621b373a23cd384",
+            "id": "d2ac1bfdaf230d85",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5621b373a23cd384",
+  "active": "d2ac1bfdaf230d85",
   "lastOpenFiles": [
+    "cp-algorithm/树链剖分.md",
+    "cp-algorithm/assets/长链剖分优化动态规划.png",
+    "cp-algorithm/单调回归（Isotonic Regression）问题.md",
+    "cp-algorithm/卡特兰数.md",
+    "cp-algorithm/assets/长链剖分.png",
+    "cp-algorithm/assets/边权换点权技巧.png",
     "deeplearning/矩阵乘法技巧.md",
     "deeplearning/DeepSeek MLA.md",
     "deeplearning/深度学习的优化算法.md",
@@ -172,7 +178,6 @@
     "数学概念/卡帕系数.md",
     "数学概念/矩阵的内积、外积、哈达玛积和乘法.md",
     "cp-algorithm/判断负环.md",
-    "cp-algorithm/单调回归（Isotonic Regression）问题.md",
     "cp-algorithm/康托展开、约瑟夫环、完美洗牌.md",
     "deeplearning/MFA强制语音对齐.md",
     "cp-algorithm/逆元、除法同余和容斥原理.md",
@@ -188,10 +193,7 @@
     "cp-algorithm/树套树.md",
     "cp-algorithm/二项式定理证明.md",
     "cp-algorithm/常用的位运算.md",
-    "cp-algorithm/01分数规划.md",
-    "cp-algorithm/树链剖分.md",
     "cp-algorithm/assets/轻重链剖分.png",
-    "cp-algorithm/启发思考法.md",
     "RL/IntroRL/lecture2.pdf",
     "RL/IntroRL/lecture9.pdf",
     "RL/IntroRL/lecture8.pdf",
@@ -206,9 +208,6 @@
     "cp-algorithm/assets/k短路——搜索策略.png",
     "cp-algorithm/assets/k短路——左偏树合并.png",
     "cp-algorithm/assets/k短路——非树边建模.png",
-    "assets/可持久化左偏树.jpg",
-    "cp-algorithm/assets/笛卡尔树.png",
-    "assets/HK 增广路 BFS树.drawio.svg",
     "未命名.canvas"
   ]
 }
