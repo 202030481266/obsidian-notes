@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "24b42499ed2361c2",
+        "id": "a4a780d7587b5da2",
         "type": "tabs",
         "children": [
           {
-            "id": "d2ac1bfdaf230d85",
+            "id": "0df805938d281a86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-algorithm/树上启发式合并.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "树上启发式合并"
+              "title": "New tab"
             }
           }
         ]
@@ -165,10 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2ac1bfdaf230d85",
+  "active": "f08620785d0bc71a",
   "lastOpenFiles": [
-    "cp-algorithm/树链剖分.md",
+    "paper  notes/HtmlRAG.md",
+    "paper  notes/assets/html rag method.png",
+    "paper  notes/assets/html rag token probability calculation.png",
+    "paper  notes/assets/Pasted image 20250325162001.png",
+    "paper  notes/Chain Of Table.md",
+    "paper  notes/TableRAG.md",
+    "paper  notes/assets/TableRAG.png",
     "cp-algorithm/树上启发式合并.md",
+    "cp-algorithm/树链剖分.md",
     "cp-algorithm/assets/长链剖分优化动态规划.png",
     "cp-algorithm/单调回归（Isotonic Regression）问题.md",
     "cp-algorithm/卡特兰数.md",
@@ -194,10 +197,6 @@
     "cp-algorithm/延迟标记（Lazy Propagation）维护数据结构.md",
     "cp-algorithm/无向图三元环数量.md",
     "cp-algorithm/图的基环.md",
-    "cp-algorithm/替罪羊树.md",
-    "cp-algorithm/树套树.md",
-    "cp-algorithm/二项式定理证明.md",
-    "cp-algorithm/常用的位运算.md",
     "cp-algorithm/assets/轻重链剖分.png",
     "RL/IntroRL/lecture2.pdf",
     "RL/IntroRL/lecture9.pdf",
@@ -209,10 +208,6 @@
     "RL/IntroRL/lecture3.pdf",
     "RL/IntroRL/lecture1.pdf",
     "cp-algorithm/assets/带权并查集合并操作.png",
-    "cp-algorithm/assets/带权并查集 食物链.png",
-    "cp-algorithm/assets/k短路——搜索策略.png",
-    "cp-algorithm/assets/k短路——左偏树合并.png",
-    "cp-algorithm/assets/k短路——非树边建模.png",
     "未命名.canvas"
   ]
 }
