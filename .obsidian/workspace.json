@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4db0c041a24d2356",
+        "id": "6fd3da4529d3b5b0",
         "type": "tabs",
         "children": [
           {
-            "id": "31e8aac641b12069",
+            "id": "0229285e53b759b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "工程技术/Go后端技术/GO包语法知识点.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GO包语法知识点"
             }
           }
         ]
@@ -161,9 +165,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31e8aac641b12069",
+  "active": "0229285e53b759b2",
   "lastOpenFiles": [
-    "工程技术/Java类加载解析.md",
+    "工程技术/Go后端技术/Visual Studio Code配置环境.md",
+    "工程技术/Go后端技术/GO包语法知识点.md",
+    "工程技术/前端开发/html学习/表单练习.md",
+    "工程技术/Java后端技术/JAVA多线程.md",
+    "工程技术/Java后端技术/Java类加载解析.md",
+    "工程技术/前端开发/html学习/assets/form data html practice.png",
+    "工程技术/前端开发/html学习/assets",
+    "工程技术/Java后端技术/assets/java roadmap.png",
+    "工程技术/前端开发/html学习",
+    "cp-algorithm/树链剖分.md",
+    "cp-algorithm/树上启发式合并.md",
+    "cp-algorithm/树套树.md",
+    "cp-algorithm/二分图最大匹配.md",
+    "cp-algorithm/负环和差分约束.md",
+    "工程技术/Java后端技术/注解和反射.md",
+    "工程技术/Java后端技术/assets/不高兴就喝水出品.png",
+    "工程技术/Java后端技术/assets",
+    "工程技术/Cpp开发",
+    "工程技术/前端开发",
+    "工程技术/Go后端技术",
+    "工程技术/Java后端技术",
     "paper  notes/HtmlRAG.md",
     "paper  notes/assets/html rag method.png",
     "paper  notes/assets/html rag token probability calculation.png",
@@ -171,8 +195,6 @@
     "paper  notes/Chain Of Table.md",
     "paper  notes/TableRAG.md",
     "paper  notes/assets/TableRAG.png",
-    "cp-algorithm/树上启发式合并.md",
-    "cp-algorithm/树链剖分.md",
     "cp-algorithm/assets/长链剖分优化动态规划.png",
     "cp-algorithm/单调回归（Isotonic Regression）问题.md",
     "cp-algorithm/卡特兰数.md",
@@ -182,7 +204,6 @@
     "deeplearning/DeepSeek MLA.md",
     "deeplearning/深度学习的优化算法.md",
     "deeplearning/ROPE 旋转位置编码.md",
-    "deeplearning/assets/ROPE 线性插值.png",
     "deeplearning/assets",
     "数学概念/卡帕系数.md",
     "数学概念/矩阵的内积、外积、哈达玛积和乘法.md",
@@ -190,25 +211,8 @@
     "cp-algorithm/康托展开、约瑟夫环、完美洗牌.md",
     "deeplearning/MFA强制语音对齐.md",
     "cp-algorithm/逆元、除法同余和容斥原理.md",
-    "cp-algorithm/扩展欧几里算法和二元一次方程.md",
-    "cp-algorithm/快读和快写.md",
-    "cp-algorithm/FHQ Treap.md",
-    "cp-algorithm/左偏树.md",
-    "cp-algorithm/中国剩余定理.md",
-    "cp-algorithm/延迟标记（Lazy Propagation）维护数据结构.md",
-    "cp-algorithm/无向图三元环数量.md",
-    "cp-algorithm/图的基环.md",
-    "cp-algorithm/assets/轻重链剖分.png",
     "RL/IntroRL/lecture2.pdf",
     "RL/IntroRL/lecture9.pdf",
-    "RL/IntroRL/lecture8.pdf",
-    "RL/IntroRL/lecture7.pdf",
-    "RL/IntroRL/lecture6.pdf",
-    "RL/IntroRL/lecture5.pdf",
-    "RL/IntroRL/lecture4.pdf",
-    "RL/IntroRL/lecture3.pdf",
-    "RL/IntroRL/lecture1.pdf",
-    "cp-algorithm/assets/带权并查集合并操作.png",
     "未命名.canvas"
   ]
 }

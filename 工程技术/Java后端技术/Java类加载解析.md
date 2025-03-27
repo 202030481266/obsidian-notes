@@ -3,6 +3,7 @@
 Java 类的加载过程由 JVM 的类加载器完成，分为三个主要阶段：加载 (Loading)、链接 (Linking) 和初始化 (Initialization)。每个阶段涉及 JVM 的不同内存区域，包括方法区 (Method Area)、堆 (Heap) 和栈 (Stack)。以下是详细总结：
 
 #### 1. 加载 (Loading)
+
 - **作用**: 将类的 `.class` 文件加载到内存，生成代表类的 Class 对象。
 - **过程**:  
   - 类加载器根据全限定名（如 com.example.MyClass）找到 `.class` 文件。
@@ -12,6 +13,7 @@ Java 类的加载过程由 JVM 的类加载器完成，分为三个主要阶段�
   - 堆: 存储 Class 对象实例。
 
 #### 2. 链接 (Linking)
+
 链接分为三个子阶段：
 - **(1) 验证 (Verification)**  
   - **作用**: 检查字节码的合法性（如魔数 CAFEBABE）。
@@ -24,6 +26,7 @@ Java 类的加载过程由 JVM 的类加载器完成，分为三个主要阶段�
   - **内存区域**: 方法区（解析后的引用指向方法区或堆）。
 
 #### 3. 初始化 (Initialization)
+
 - **作用**: 执行类的静态初始化代码（如 static int a = 5 和静态代码块）。
 - **过程**:  
   - 执行由编译器生成的 `<clinit>` 方法。
@@ -34,6 +37,7 @@ Java 类的加载过程由 JVM 的类加载器完成，分为三个主要阶段�
   - 堆: 若静态块创建对象（如 static Object obj = new Object()），对象分配在堆中。
 
 #### 4. 对象实例化（加载完成后）
+
 - **作用**: 使用 new 创建对象实例。
 - **内存区域**:  
   - 堆: 存储对象实例。
@@ -41,6 +45,7 @@ Java 类的加载过程由 JVM 的类加载器完成，分为三个主要阶段�
   - 方法区: 提供类的元信息（如字段布局）。
 
 #### 触发时机
+
 类加载在以下情况触发：
 - 使用 new 创建对象。
 - 访问 static 变量或方法。
@@ -50,7 +55,9 @@ Java 类的加载过程由 JVM 的类加载器完成，分为三个主要阶段�
 ---
 
 ### 示例总结
+
 以代码为例：
+
 ```java
 class Parent {
     static int a = 5;
@@ -71,6 +78,7 @@ class Child extends Parent {
     }
 }
 ```
+
 - **加载**: Parent 和 Child 的字节码加载到方法区，Class 对象在堆中。
 - **链接**:  
   - 验证 Parent.class 和 Child.class。
@@ -82,6 +90,7 @@ class Child extends Parent {
 - **执行 main**: 输出 "Main start"，new Child() 在堆中创建实例。
 
 输出：
+
 ```
 Parent static block, a = 5
 Child static block, b = 10

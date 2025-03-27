@@ -1,10 +1,11 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
   "monospaceFontFamily": "Hack,Consolas",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "image",
     "table center"
-  ]
+  ],
+  "accentColor": ""
 }
