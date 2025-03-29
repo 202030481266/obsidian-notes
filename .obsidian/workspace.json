@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ea33f308bcc0e10",
+        "id": "f05f762ee203795b",
         "type": "tabs",
         "children": [
           {
-            "id": "0ed1a7488508d82b",
+            "id": "c7a3b89a65940221",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ed1a7488508d82b",
+  "active": "c7a3b89a65940221",
   "lastOpenFiles": [
+    "工程技术/Go后端技术/Go语法糖.md",
+    "工程技术/Go后端技术/Go变量知识点.md",
+    "工程技术/Go后端技术/Go手写排序.md",
+    "工程技术/Go后端技术/Visual Studio Code配置环境.md",
     "工程技术/pytorch常用的操作/polar.md",
     "工程技术/pytorch常用的操作/expand，flatten.md",
     "工程技术/pytorch常用的操作/Transpose、contiguous、view.md",
@@ -178,8 +182,6 @@
     "工程技术/Java后端技术/Java Lambda表达式.md",
     "工程技术/Java后端技术/Java多线程.md",
     "工程技术/Java后端技术/Java类.md",
-    "工程技术/Go后端技术/GO包语法知识点.md",
-    "工程技术/Go后端技术/Visual Studio Code配置环境.md",
     "工程技术/前端开发/html学习/表单练习.md",
     "工程技术/Java后端技术/Java类加载解析.md",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
@@ -201,8 +203,6 @@
     "paper  notes/assets/html rag method.png",
     "paper  notes/assets/html rag token probability calculation.png",
     "paper  notes/assets/Pasted image 20250325162001.png",
-    "paper  notes/Chain Of Table.md",
-    "paper  notes/TableRAG.md",
     "paper  notes/assets/TableRAG.png",
     "cp-algorithm/assets/长链剖分优化动态规划.png",
     "cp-algorithm/assets/长链剖分.png",
