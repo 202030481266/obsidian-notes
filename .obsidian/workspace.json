@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f05f762ee203795b",
+        "id": "5cb29b8ace65082a",
         "type": "tabs",
         "children": [
           {
-            "id": "c7a3b89a65940221",
+            "id": "15d74750d5b71f3e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7a3b89a65940221",
+  "active": "15d74750d5b71f3e",
   "lastOpenFiles": [
+    "工程技术/Go后端技术/Go字符串操作和Strings.Builder.md",
     "工程技术/Go后端技术/Go语法糖.md",
     "工程技术/Go后端技术/Go变量知识点.md",
     "工程技术/Go后端技术/Go手写排序.md",
@@ -199,7 +200,6 @@
     "工程技术/前端开发",
     "工程技术/Go后端技术",
     "工程技术/Java后端技术",
-    "paper  notes/HtmlRAG.md",
     "paper  notes/assets/html rag method.png",
     "paper  notes/assets/html rag token probability calculation.png",
     "paper  notes/assets/Pasted image 20250325162001.png",
