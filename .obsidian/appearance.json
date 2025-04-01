@@ -1,5 +1,5 @@
 {
-  "theme": "obsidian",
+  "theme": "system",
   "cssTheme": "Minimal",
   "monospaceFontFamily": "Hack,Consolas",
   "baseFontSizeAction": true,
@@ -7,5 +7,6 @@
     "image",
     "table center"
   ],
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 17
 }
