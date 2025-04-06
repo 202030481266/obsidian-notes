@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8bbb0d636760f89b",
+        "id": "568305ee71584dc7",
         "type": "tabs",
         "children": [
           {
-            "id": "b3fc5a7861b3305e",
+            "id": "939d6a89d4dcf827",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f08620785d0bc71a",
+  "active": "939d6a89d4dcf827",
   "lastOpenFiles": [
+    "工程技术/Go后端技术/Go并发知识点.md",
+    "工程技术/Go后端技术/Go泛型知识点.md",
+    "工程技术/Go后端技术/Go接口知识点.md",
+    "工程技术/Go后端技术/Go函数知识点.md",
+    "工程技术/Go后端技术/Go手写排序.md",
+    "工程技术/Go后端技术/Go变量知识点.md",
+    "工程技术/Go后端技术/Go指针和结构体知识点.md",
+    "工程技术/Go后端技术/Go字符串操作和Strings.Builder.md",
+    "工程技术/Go后端技术/Visual Studio Code配置环境.md",
+    "数学概念/考研数学/常用的不等式.md",
+    "工程技术/Go后端技术/Go语句知识点.md",
+    "工程技术/Go后端技术/Go语法糖.md",
     "cp-algorithm/Kruskal重建树.md",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
     "cp-algorithm/可持久化线段树.md",
@@ -175,13 +187,7 @@
     "paper  notes/assets/flash attention forward pass.png",
     "paper  notes/assets/FlashAttention.png",
     "paper  notes/TableRAG.md",
-    "数学概念/考研数学/常用的不等式.md",
     "数学概念/考研数学",
-    "工程技术/Go后端技术/Go字符串操作和Strings.Builder.md",
-    "工程技术/Go后端技术/Go语法糖.md",
-    "工程技术/Go后端技术/Go变量知识点.md",
-    "工程技术/Go后端技术/Go手写排序.md",
-    "工程技术/Go后端技术/Visual Studio Code配置环境.md",
     "工程技术/pytorch常用的操作/polar.md",
     "工程技术/pytorch常用的操作/expand，flatten.md",
     "工程技术/pytorch常用的操作/Transpose、contiguous、view.md",
@@ -189,11 +195,6 @@
     "deeplearning/RMSNorm.md",
     "deeplearning/makemore-Activations & Gradients, BatchNorm.md",
     "deeplearning/makemore-Becoming a Backprop Ninja.md",
-    "deeplearning/makemore-bigram.md",
-    "deeplearning/Let's reproduce GPT-2(124M).md",
-    "deeplearning/Let's build the GPT tokenizer from scratch.md",
-    "deeplearning/Let's build the GPT from scrtach.md",
-    "cp-algorithm/树链剖分.md",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
     "工程技术/前端开发/html学习/assets",
     "工程技术/Java后端技术/assets/java roadmap.png",
