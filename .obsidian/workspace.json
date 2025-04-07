@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "568305ee71584dc7",
+        "id": "b2fc8070b9564409",
         "type": "tabs",
         "children": [
           {
-            "id": "939d6a89d4dcf827",
+            "id": "a0f20a38a275d4f1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,13 +161,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "939d6a89d4dcf827",
+  "active": "a0f20a38a275d4f1",
   "lastOpenFiles": [
+    "工程技术/Go后端技术/Go堆结构.md",
+    "工程技术/Go后端技术/Go接口知识点.md",
+    "工程技术/Go后端技术/Go手写排序.md",
     "工程技术/Go后端技术/Go并发知识点.md",
     "工程技术/Go后端技术/Go泛型知识点.md",
-    "工程技术/Go后端技术/Go接口知识点.md",
     "工程技术/Go后端技术/Go函数知识点.md",
-    "工程技术/Go后端技术/Go手写排序.md",
     "工程技术/Go后端技术/Go变量知识点.md",
     "工程技术/Go后端技术/Go指针和结构体知识点.md",
     "工程技术/Go后端技术/Go字符串操作和Strings.Builder.md",
@@ -194,7 +195,6 @@
     "工程技术/pytorch常用的操作",
     "deeplearning/RMSNorm.md",
     "deeplearning/makemore-Activations & Gradients, BatchNorm.md",
-    "deeplearning/makemore-Becoming a Backprop Ninja.md",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
     "工程技术/前端开发/html学习/assets",
     "工程技术/Java后端技术/assets/java roadmap.png",
