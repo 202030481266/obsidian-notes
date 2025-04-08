@@ -8,5 +8,7 @@
     "table center"
   ],
   "accentColor": "",
-  "baseFontSize": 17
+  "baseFontSize": 16,
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af3918b50e5ccf96",
+        "id": "504b819f4b46986d",
         "type": "tabs",
         "children": [
           {
-            "id": "507aa6ac0ba23218",
+            "id": "cdaf068f05abe90a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工程技术/Python进阶/装饰器最佳实践.md",
+                "file": "工程技术/Python进阶/Python上下文管理器详解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "装饰器最佳实践"
+              "title": "Python上下文管理器详解"
             }
           }
         ]
@@ -165,14 +165,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "507aa6ac0ba23218",
+  "active": "cdaf068f05abe90a",
   "lastOpenFiles": [
+    "工程技术/Python进阶/If 之外的 Else 语句.md",
+    "工程技术/Python进阶/Python上下文管理器详解.md",
+    "工程技术/Python进阶/Python Ellipsis (`...`) 对象指南.md",
+    "工程技术/Python进阶/流畅的Python.pdf",
+    "工程技术/Python进阶/~~$流畅的Python.pdf",
+    "工程技术/Python进阶/上下文管理器和With块.md",
     "工程技术/Python进阶/装饰器最佳实践.md",
+    "deeplearning/MFA强制语音对齐.md",
+    "deeplearning/HMM.md",
+    "RL/IntroRL/lecture3.pdf",
+    "cp-algorithm/带权并查集.md",
+    "Business/AI+商业.md",
+    "Business/增长黑客说书会.md",
     "工程技术/调整PowerShell的执行策略.md",
     "工程技术/希腊字母表.md",
     "工程技术/SSH反向代理和转发.md",
     "工程技术/Ollama.md",
-    "工程技术/Python进阶/Python Ellipsis (`...`) 对象完全指南.md",
     "工程技术/Python进阶",
     "工程技术/pytorch常用的操作/Transpose、contiguous、view.md",
     "工程技术/Go后端技术/Go堆结构.md",
@@ -185,17 +196,8 @@
     "工程技术/Go后端技术/Go指针和结构体知识点.md",
     "工程技术/Go后端技术/Go字符串操作和Strings.Builder.md",
     "工程技术/Go后端技术/Visual Studio Code配置环境.md",
-    "数学概念/考研数学/常用的不等式.md",
-    "工程技术/Go后端技术/Go语句知识点.md",
-    "工程技术/Go后端技术/Go语法糖.md",
-    "cp-algorithm/Kruskal重建树.md",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
-    "cp-algorithm/可持久化线段树.md",
     "cp-algorithm/assets/Kruskal重建树.png",
-    "工程技术/Java后端技术/Java类加载解析.md",
-    "工程技术/Java后端技术/Java类.md",
-    "工程技术/Java后端技术/Java多线程.md",
-    "工程技术/Java后端技术/Java Lambda表达式.md",
     "paper  notes/assets/flash attention forward pass.png",
     "paper  notes/assets/FlashAttention.png",
     "数学概念/考研数学",
@@ -207,9 +209,6 @@
     "工程技术/Java后端技术/assets/不高兴就喝水出品.png",
     "工程技术/Java后端技术/assets",
     "工程技术/Cpp开发",
-    "工程技术/前端开发",
-    "工程技术/Go后端技术",
-    "工程技术/Java后端技术",
     "paper  notes/assets/html rag method.png",
     "paper  notes/assets/html rag token probability calculation.png",
     "paper  notes/assets/Pasted image 20250325162001.png",
