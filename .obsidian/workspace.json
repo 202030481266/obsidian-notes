@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cda0495952dd7d2e",
+        "id": "d007dfb3b8125098",
         "type": "tabs",
         "children": [
           {
-            "id": "c27bb4ed811387f1",
+            "id": "1005fc616a9d195d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,10 +161,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c27bb4ed811387f1",
+  "active": "f08620785d0bc71a",
   "lastOpenFiles": [
-    "工程技术/Python进阶/yield from 深入理解.md",
+    "工程技术/Python进阶/Python Asyncio 实践指南.md",
+    "工程技术/Python进阶/深入理解 Python Asyncio.md",
     "工程技术/Python进阶/~~$流畅的Python.pdf",
+    "工程技术/Python进阶/yield from 深入理解.md",
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf",
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf.crdownload",
     "工程技术/Python进阶/Python上下文管理器详解.md",
@@ -193,8 +195,6 @@
     "工程技术/Go后端技术/Go函数知识点.md",
     "工程技术/Go后端技术/Go变量知识点.md",
     "工程技术/Go后端技术/Go指针和结构体知识点.md",
-    "工程技术/Go后端技术/Go字符串操作和Strings.Builder.md",
-    "工程技术/Go后端技术/Visual Studio Code配置环境.md",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
     "cp-algorithm/assets/Kruskal重建树.png",
     "paper  notes/assets/flash attention forward pass.png",
