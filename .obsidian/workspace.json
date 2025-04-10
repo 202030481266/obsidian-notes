@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d007dfb3b8125098",
+        "id": "d9d1f723d525c777",
         "type": "tabs",
         "children": [
           {
-            "id": "1005fc616a9d195d",
+            "id": "78628438a274304f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f08620785d0bc71a",
+  "active": "78628438a274304f",
   "lastOpenFiles": [
+    "工程技术/Python进阶/Python Ellipsis (`...`) 对象指南.md",
     "工程技术/Python进阶/Python Asyncio 实践指南.md",
     "工程技术/Python进阶/深入理解 Python Asyncio.md",
     "工程技术/Python进阶/~~$流畅的Python.pdf",
@@ -171,7 +172,6 @@
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf.crdownload",
     "工程技术/Python进阶/Python上下文管理器详解.md",
     "工程技术/Python进阶/If 之外的 Else 语句.md",
-    "工程技术/Python进阶/Python Ellipsis (`...`) 对象指南.md",
     "工程技术/Python进阶/流畅的Python.pdf",
     "工程技术/Python进阶/上下文管理器和With块.md",
     "工程技术/Python进阶/装饰器最佳实践.md",
