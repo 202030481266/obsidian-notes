@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9d1f723d525c777",
+        "id": "958a0cffa5f00fde",
         "type": "tabs",
         "children": [
           {
-            "id": "78628438a274304f",
+            "id": "4bb197fe4b1ba8a8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78628438a274304f",
+  "active": "4bb197fe4b1ba8a8",
   "lastOpenFiles": [
+    "工程技术/Python进阶/Python动态属性和特性深入理解.md",
+    "工程技术/Python进阶/动态属性和特性实践指南.md",
+    "工程技术/Java后端技术/Java Lambda表达式.md",
+    "manim/命令行参数.md",
+    "manim/各种场景练习.md",
+    "manim",
     "工程技术/Python进阶/Python Ellipsis (`...`) 对象指南.md",
     "工程技术/Python进阶/Python Asyncio 实践指南.md",
     "工程技术/Python进阶/深入理解 Python Asyncio.md",
@@ -190,11 +196,6 @@
     "工程技术/Go后端技术/Go堆结构.md",
     "工程技术/Go后端技术/Go接口知识点.md",
     "工程技术/Go后端技术/Go手写排序.md",
-    "工程技术/Go后端技术/Go并发知识点.md",
-    "工程技术/Go后端技术/Go泛型知识点.md",
-    "工程技术/Go后端技术/Go函数知识点.md",
-    "工程技术/Go后端技术/Go变量知识点.md",
-    "工程技术/Go后端技术/Go指针和结构体知识点.md",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
     "cp-algorithm/assets/Kruskal重建树.png",
     "paper  notes/assets/flash attention forward pass.png",
@@ -204,7 +205,6 @@
     "工程技术/前端开发/html学习/assets/form data html practice.png",
     "工程技术/前端开发/html学习/assets",
     "工程技术/Java后端技术/assets/java roadmap.png",
-    "工程技术/前端开发/html学习",
     "工程技术/Java后端技术/assets/不高兴就喝水出品.png",
     "paper  notes/assets/html rag method.png",
     "paper  notes/assets/html rag token probability calculation.png",
