@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "958a0cffa5f00fde",
+        "id": "22b0e10f2a667661",
         "type": "tabs",
         "children": [
           {
-            "id": "4bb197fe4b1ba8a8",
+            "id": "d19902744f6e6ad1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4bb197fe4b1ba8a8",
+  "active": "f08620785d0bc71a",
   "lastOpenFiles": [
+    "cp-algorithm/可持久化并查集、可撤销并查集.md",
+    "deeplearning/矩阵乘法技巧.md",
+    "工程技术/前端开发/html学习/表单练习.md",
+    "工程技术/前端开发/html学习/assets/form data html practice.png",
+    "工程技术/pytorch常用的操作/Transpose、contiguous、view.md",
     "工程技术/Python进阶/Python动态属性和特性深入理解.md",
     "工程技术/Python进阶/动态属性和特性实践指南.md",
     "工程技术/Java后端技术/Java Lambda表达式.md",
@@ -192,17 +197,12 @@
     "工程技术/SSH反向代理和转发.md",
     "工程技术/Ollama.md",
     "工程技术/Python进阶",
-    "工程技术/pytorch常用的操作/Transpose、contiguous、view.md",
-    "工程技术/Go后端技术/Go堆结构.md",
-    "工程技术/Go后端技术/Go接口知识点.md",
-    "工程技术/Go后端技术/Go手写排序.md",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
     "cp-algorithm/assets/Kruskal重建树.png",
     "paper  notes/assets/flash attention forward pass.png",
     "paper  notes/assets/FlashAttention.png",
     "数学概念/考研数学",
     "工程技术/pytorch常用的操作",
-    "工程技术/前端开发/html学习/assets/form data html practice.png",
     "工程技术/前端开发/html学习/assets",
     "工程技术/Java后端技术/assets/java roadmap.png",
     "工程技术/Java后端技术/assets/不高兴就喝水出品.png",
