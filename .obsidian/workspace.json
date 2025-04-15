@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "22b0e10f2a667661",
+        "id": "fc79d5ee71d98e7a",
         "type": "tabs",
         "children": [
           {
-            "id": "d19902744f6e6ad1",
+            "id": "dc9404fef6844d0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-algorithm/可持久化并查集、可撤销并查集.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "可持久化并查集、可撤销并查集"
+              "title": "New tab"
             }
           }
         ]
@@ -165,8 +161,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d19902744f6e6ad1",
+  "active": "dc9404fef6844d0a",
   "lastOpenFiles": [
+    "manim/各种场景练习.md",
+    "工程技术/cpp奇技淫巧/local static.md",
+    "工程技术/cpp奇技淫巧/箭头操作符.md",
+    "工程技术/cpp奇技淫巧/复制构造函数.md",
+    "工程技术/cpp奇技淫巧/智能指针.md",
+    "工程技术/cpp奇技淫巧/隐式转换.md",
+    "工程技术/cpp奇技淫巧",
     "cp-algorithm/可持久化并查集、可撤销并查集.md",
     "deeplearning/矩阵乘法技巧.md",
     "工程技术/前端开发/html学习/表单练习.md",
@@ -176,7 +179,6 @@
     "工程技术/Python进阶/动态属性和特性实践指南.md",
     "工程技术/Java后端技术/Java Lambda表达式.md",
     "manim/命令行参数.md",
-    "manim/各种场景练习.md",
     "manim",
     "工程技术/Python进阶/Python Ellipsis (`...`) 对象指南.md",
     "工程技术/Python进阶/Python Asyncio 实践指南.md",
@@ -195,11 +197,6 @@
     "RL/IntroRL/lecture3.pdf",
     "cp-algorithm/带权并查集.md",
     "Business/AI+商业.md",
-    "Business/增长黑客说书会.md",
-    "工程技术/调整PowerShell的执行策略.md",
-    "工程技术/希腊字母表.md",
-    "工程技术/SSH反向代理和转发.md",
-    "工程技术/Ollama.md",
     "工程技术/Python进阶",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
     "cp-algorithm/assets/Kruskal重建树.png",
@@ -207,7 +204,6 @@
     "paper  notes/assets/FlashAttention.png",
     "数学概念/考研数学",
     "工程技术/pytorch常用的操作",
-    "工程技术/前端开发/html学习/assets",
     "工程技术/Java后端技术/assets/java roadmap.png",
     "工程技术/Java后端技术/assets/不高兴就喝水出品.png",
     "paper  notes/assets/html rag method.png",
