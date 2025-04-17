@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fc79d5ee71d98e7a",
+        "id": "388545d91720e699",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9404fef6844d0a",
+            "id": "9089b393e6a85dc7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc9404fef6844d0a",
+  "active": "9089b393e6a85dc7",
   "lastOpenFiles": [
+    "工程技术/cpp奇技淫巧/简单的Timer计时器.md",
+    "工程技术/cpp奇技淫巧/函数指针.md",
+    "工程技术/Python进阶/If 之外的 Else 语句.md",
+    "工程技术/cpp奇技淫巧/宏的使用.md",
     "manim/各种场景练习.md",
     "工程技术/cpp奇技淫巧/local static.md",
     "工程技术/cpp奇技淫巧/箭头操作符.md",
@@ -188,15 +192,11 @@
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf",
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf.crdownload",
     "工程技术/Python进阶/Python上下文管理器详解.md",
-    "工程技术/Python进阶/If 之外的 Else 语句.md",
     "工程技术/Python进阶/流畅的Python.pdf",
     "工程技术/Python进阶/上下文管理器和With块.md",
     "工程技术/Python进阶/装饰器最佳实践.md",
     "deeplearning/MFA强制语音对齐.md",
-    "deeplearning/HMM.md",
     "RL/IntroRL/lecture3.pdf",
-    "cp-algorithm/带权并查集.md",
-    "Business/AI+商业.md",
     "工程技术/Python进阶",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
     "cp-algorithm/assets/Kruskal重建树.png",
