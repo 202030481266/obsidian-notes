@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3fefc718f04b418",
+        "id": "15e3f4d89f327f6f",
         "type": "tabs",
         "children": [
           {
-            "id": "df1e7df76f0772ee",
+            "id": "e186b81ee9ebf35a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df1e7df76f0772ee",
+  "active": "e186b81ee9ebf35a",
   "lastOpenFiles": [
+    "工程技术/cpp奇技淫巧/调试内存的技巧.md",
     "工程技术/cpp奇技淫巧/单例模式.md",
     "工程技术/cpp奇技淫巧/Type Punning.md",
     "工程技术/cpp奇技淫巧/简单的Timer计时器.md",
@@ -195,7 +196,6 @@
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf.crdownload",
     "工程技术/Python进阶/Python上下文管理器详解.md",
     "工程技术/Python进阶/流畅的Python.pdf",
-    "工程技术/Python进阶/上下文管理器和With块.md",
     "RL/IntroRL/lecture3.pdf",
     "工程技术/Python进阶",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
