@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "388545d91720e699",
+        "id": "c0ee742a17aa677d",
         "type": "tabs",
         "children": [
           {
-            "id": "9089b393e6a85dc7",
+            "id": "13f98c070236c0f9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9089b393e6a85dc7",
+  "active": "f08620785d0bc71a",
   "lastOpenFiles": [
+    "工程技术/cpp奇技淫巧/Type Punning.md",
     "工程技术/cpp奇技淫巧/简单的Timer计时器.md",
     "工程技术/cpp奇技淫巧/函数指针.md",
     "工程技术/Python进阶/If 之外的 Else 语句.md",
@@ -195,7 +196,6 @@
     "工程技术/Python进阶/流畅的Python.pdf",
     "工程技术/Python进阶/上下文管理器和With块.md",
     "工程技术/Python进阶/装饰器最佳实践.md",
-    "deeplearning/MFA强制语音对齐.md",
     "RL/IntroRL/lecture3.pdf",
     "工程技术/Python进阶",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
