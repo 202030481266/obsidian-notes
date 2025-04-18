@@ -153,6 +153,38 @@ func main() {
 }
 ```
 
+### 6.快速选择算法
+
+有的时候，需要一些更加高效的分治算法，比如快速选择，这个算法可以非常快速找到第K大的元素的值。
+
+```go
+func quickSelect(arr []int, k int) int {
+	if len(arr) == 1 {
+		return arr[0]
+	}
+	
+	pivot := arr[rand.Intn(len(arr))]
+	var lows, highs, pivots []int
+	for _, v := range arr {
+		if v < pivot {
+			lows = append(lows, v)
+		} else if v > pivot {
+			highs = append(highs, v)
+		} else {
+			pivots = append(pivots, v)
+		}
+	}
+	
+	if k <= len(lows) {
+		return quickSelect(lows, k)
+	} else if k <= len(lows)+len(pivots) {
+		return pivot
+	} else {
+		return quickSelect(highs, k-len(lows)-len(pivots))
+	}
+}
+```
+
 ### 总结
 
 - **基本类型**：用 `sort.Ints`、`sort.Strings` 等。
