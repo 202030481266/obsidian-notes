@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8c9f767bf7ad9ab",
+        "id": "a54228ccc81879ab",
         "type": "tabs",
         "children": [
           {
-            "id": "0040ea1b03f7938a",
+            "id": "b534ffb415dc4d14",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,6 +163,8 @@
   },
   "active": "f08620785d0bc71a",
   "lastOpenFiles": [
+    "工程技术/cpp奇技淫巧/左值和右值.md",
+    "Untitled.md",
     "工程技术/Go后端技术/Go手写排序.md",
     "工程技术/cpp奇技淫巧/调试内存的技巧.md",
     "工程技术/cpp奇技淫巧/单例模式.md",
@@ -190,9 +192,7 @@
     "manim",
     "工程技术/Python进阶/Python Ellipsis (`...`) 对象指南.md",
     "工程技术/Python进阶/Python Asyncio 实践指南.md",
-    "工程技术/Python进阶/深入理解 Python Asyncio.md",
     "工程技术/Python进阶/~~$流畅的Python.pdf",
-    "工程技术/Python进阶/yield from 深入理解.md",
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf",
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf.crdownload",
     "工程技术/Python进阶/流畅的Python.pdf",
