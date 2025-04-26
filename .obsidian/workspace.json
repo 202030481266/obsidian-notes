@@ -11,10 +11,14 @@
             "id": "d662d84d723001f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cp-algorithm/线段树分治.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "线段树分治"
             }
           }
         ]
