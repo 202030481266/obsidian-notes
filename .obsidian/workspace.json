@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6160c545af47d2d2",
+        "id": "787251c18c9b1454",
         "type": "tabs",
         "children": [
           {
-            "id": "d662d84d723001f9",
+            "id": "f14ff2ad1051a0b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-algorithm/线段树分治.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "线段树分治"
+              "title": "New tab"
             }
           }
         ]
@@ -165,8 +161,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d662d84d723001f9",
+  "active": "f14ff2ad1051a0b7",
   "lastOpenFiles": [
+    "cp-algorithm/树同构问题.md",
+    "cp-algorithm/树的中心.md",
+    "cp-algorithm/划分和式的渐进复杂度.md",
+    "cp-algorithm/笛卡尔树.md",
     "工程技术/技术栈学习路线.md",
     "cp-algorithm/线段树分治.md",
     "cp-algorithm/FHQ Treap.md",
@@ -190,11 +190,7 @@
     "工程技术/cpp奇技淫巧",
     "cp-algorithm/可持久化并查集、可撤销并查集.md",
     "deeplearning/矩阵乘法技巧.md",
-    "工程技术/前端开发/html学习/表单练习.md",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
-    "工程技术/pytorch常用的操作/Transpose、contiguous、view.md",
-    "工程技术/Python进阶/Python动态属性和特性深入理解.md",
-    "工程技术/Python进阶/动态属性和特性实践指南.md",
     "manim",
     "工程技术/Python进阶/~~$流畅的Python.pdf",
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf",
