@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "787251c18c9b1454",
+        "id": "c60e2093f0ba2f21",
         "type": "tabs",
         "children": [
           {
-            "id": "f14ff2ad1051a0b7",
+            "id": "30d98374509575c2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f14ff2ad1051a0b7",
+  "active": "30d98374509575c2",
   "lastOpenFiles": [
+    "cp-algorithm/采样逆变换和拒绝采样.md",
+    "工程技术/前端开发/html学习/表单相关知识点.md",
+    "工程技术/前端开发/html学习/表单练习.md",
     "cp-algorithm/树同构问题.md",
     "cp-algorithm/树的中心.md",
     "cp-algorithm/划分和式的渐进复杂度.md",
@@ -186,10 +189,7 @@
     "工程技术/cpp奇技淫巧/箭头操作符.md",
     "工程技术/cpp奇技淫巧/复制构造函数.md",
     "工程技术/cpp奇技淫巧/智能指针.md",
-    "工程技术/cpp奇技淫巧/隐式转换.md",
     "工程技术/cpp奇技淫巧",
-    "cp-algorithm/可持久化并查集、可撤销并查集.md",
-    "deeplearning/矩阵乘法技巧.md",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
     "manim",
     "工程技术/Python进阶/~~$流畅的Python.pdf",
