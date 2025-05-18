@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "630b95c99ed5d85a",
+        "id": "a19d25275e5100c8",
         "type": "tabs",
         "children": [
           {
-            "id": "5bc2884051870e26",
+            "id": "b61152b86b59d0f0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bc2884051870e26",
+  "active": "b61152b86b59d0f0",
   "lastOpenFiles": [
+    "cp-algorithm/整体二分.md",
     "工程技术/cpp奇技淫巧/CPP新标准下的一些有趣特性（c++17,c++20）.md",
     "cp-algorithm/矩阵快速幂+优化DP.md",
     "cp-algorithm/加法线性基.md",
@@ -188,7 +189,6 @@
     "数学概念/矩阵的内积、外积、哈达玛积和乘法.md",
     "数学概念/关键词抽取算法.md",
     "数学概念/卡帕系数.md",
-    "Business/AI+商业.md",
     "工程技术/cpp奇技淫巧",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
     "manim",
