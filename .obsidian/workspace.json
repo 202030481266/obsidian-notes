@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "31f3023a46a34124",
+        "id": "a8c690551a1bfaf8",
         "type": "tabs",
         "children": [
           {
-            "id": "dd928a36113645c4",
+            "id": "1d2e90a3e1c95d5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-algorithm/计算超大指数的逆元.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "计算超大指数的逆元"
+              "title": "New tab"
             }
           }
         ]
@@ -165,8 +161,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd928a36113645c4",
+  "active": "1d2e90a3e1c95d5b",
   "lastOpenFiles": [
+    "工程技术/技术栈学习路线.md",
     "cp-algorithm/计算超大指数的逆元.md",
     "工程技术/Go后端技术/Go泛型知识点.md",
     "工程技术/Go后端技术/Go接口知识点.md",
@@ -192,7 +189,6 @@
     "deeplearning/深度学习的优化算法.md",
     "deeplearning/模型量化.md",
     "deeplearning/HMM.md",
-    "deeplearning/Jieba分词器.md",
     "工程技术/cpp奇技淫巧",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
     "manim",
