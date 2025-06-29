@@ -11,10 +11,14 @@
             "id": "65769adf1aa4f9a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cp-algorithm/GCC扩展——PBDS，Rope.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GCC扩展——PBDS，Rope"
             }
           }
         ]
@@ -163,6 +167,9 @@
   },
   "active": "65769adf1aa4f9a7",
   "lastOpenFiles": [
+    "工程技术/Go后端技术/Go手写排序.md",
+    "cp-algorithm/GCC扩展——PBDS，Rope.md",
+    "cp-algorithm/Untitled",
     "工程技术/技术栈学习路线.md",
     "cp-algorithm/逆元、除法同余和容斥原理.md",
     "cp-algorithm/采样逆变换和拒绝采样.md",
@@ -187,8 +194,6 @@
     "cp-algorithm/整体二分.md",
     "cp-algorithm/树链剖分.md",
     "工程技术/cpp奇技淫巧/CPP新标准下的一些有趣特性（c++17,c++20）.md",
-    "cp-algorithm/矩阵快速幂+优化DP.md",
-    "cp-algorithm/加法线性基.md",
     "工程技术/cpp奇技淫巧",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
     "manim",
@@ -203,7 +208,6 @@
     "paper  notes/assets/flash attention forward pass.png",
     "paper  notes/assets/FlashAttention.png",
     "数学概念/考研数学",
-    "工程技术/pytorch常用的操作",
     "工程技术/Java后端技术/assets/java roadmap.png",
     "工程技术/Java后端技术/assets/不高兴就喝水出品.png",
     "paper  notes/assets/html rag method.png",
