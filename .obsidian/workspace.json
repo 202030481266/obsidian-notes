@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d1fbd76fc4b6c11d",
+        "id": "030e0dfbd8bc9d36",
         "type": "tabs",
         "children": [
           {
-            "id": "65769adf1aa4f9a7",
+            "id": "42c067684eaa3c66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cp-algorithm/GCC扩展——PBDS，Rope.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GCC扩展——PBDS，Rope"
+              "title": "New tab"
             }
           }
         ]
@@ -165,10 +161,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65769adf1aa4f9a7",
+  "active": "42c067684eaa3c66",
   "lastOpenFiles": [
-    "工程技术/Go后端技术/Go手写排序.md",
+    "Rust/字符串.md",
+    "Rust/动态数组.md",
+    "Rust",
     "cp-algorithm/GCC扩展——PBDS，Rope.md",
+    "工程技术/Go后端技术/Go手写排序.md",
     "cp-algorithm/Untitled",
     "工程技术/技术栈学习路线.md",
     "cp-algorithm/逆元、除法同余和容斥原理.md",
@@ -192,8 +191,6 @@
     "工程技术/Go后端技术/Go变量知识点.md",
     "cp-algorithm/复杂度为O(mn)的树上背包.md",
     "cp-algorithm/整体二分.md",
-    "cp-algorithm/树链剖分.md",
-    "工程技术/cpp奇技淫巧/CPP新标准下的一些有趣特性（c++17,c++20）.md",
     "工程技术/cpp奇技淫巧",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
     "manim",
@@ -207,7 +204,6 @@
     "cp-algorithm/assets/Kruskal重建树.png",
     "paper  notes/assets/flash attention forward pass.png",
     "paper  notes/assets/FlashAttention.png",
-    "数学概念/考研数学",
     "工程技术/Java后端技术/assets/java roadmap.png",
     "工程技术/Java后端技术/assets/不高兴就喝水出品.png",
     "paper  notes/assets/html rag method.png",
