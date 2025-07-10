@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3aa84281c1a1d2c3",
+        "id": "0c7202f67f344935",
         "type": "tabs",
         "children": [
           {
-            "id": "bad42af131ed5b4b",
+            "id": "2afce92b797f4894",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bad42af131ed5b4b",
+  "active": "2afce92b797f4894",
   "lastOpenFiles": [
+    "Business/20250708第三届红杉资本峰会纪要.md",
+    "Business/assets/Pasted image 20250710230635.png",
+    "Business/assets/Pasted image 20250710230110.png",
+    "Business/assets/Pasted image 20250710230043.png",
+    "Business/assets/Pasted image 20250710225558.png",
+    "Business/assets",
+    "Business/人们使用LLM做了什么.md",
+    "Business/商业领域的9大选择题.md",
+    "Business/最后一英里.md",
+    "Business/AI+商业.md",
     "工程技术/技术栈学习路线.md",
     "Rust/字符串.md",
     "Rust/动态数组.md",
@@ -185,12 +195,6 @@
     "cp-algorithm/卡特兰数.md",
     "cp-algorithm/常用的位运算.md",
     "工程技术/Go后端技术/Go语法糖.md",
-    "工程技术/Go后端技术/Visual Studio Code配置环境.md",
-    "工程技术/Go后端技术/Go堆结构.md",
-    "工程技术/Go后端技术/Go并发知识点.md",
-    "工程技术/Go后端技术/Go变量知识点.md",
-    "cp-algorithm/复杂度为O(mn)的树上背包.md",
-    "cp-algorithm/整体二分.md",
     "工程技术/cpp奇技淫巧",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
     "manim",
@@ -199,16 +203,11 @@
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf.crdownload",
     "工程技术/Python进阶/流畅的Python.pdf",
     "RL/IntroRL/lecture3.pdf",
-    "工程技术/Python进阶",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
     "cp-algorithm/assets/Kruskal重建树.png",
     "paper  notes/assets/flash attention forward pass.png",
     "paper  notes/assets/FlashAttention.png",
     "工程技术/Java后端技术/assets/java roadmap.png",
-    "工程技术/Java后端技术/assets/不高兴就喝水出品.png",
-    "paper  notes/assets/html rag method.png",
-    "paper  notes/assets/html rag token probability calculation.png",
-    "paper  notes/assets/Pasted image 20250325162001.png",
     "未命名.canvas"
   ]
 }
