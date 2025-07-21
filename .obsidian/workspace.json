@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c7202f67f344935",
+        "id": "88f51d2d163c5e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "2afce92b797f4894",
+            "id": "0a89eb952bc0cac7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 347.5
   },
   "right": {
     "id": "87419be2d622fda6",
@@ -136,18 +136,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cp-algorithm/二分图最大匹配.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "二分图最大匹配 的大纲"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "bd1dd95c93ef85c9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,40 +173,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2afce92b797f4894",
+  "active": "0a89eb952bc0cac7",
   "lastOpenFiles": [
+    "paper  notes/A Survey of Context Engineering for Large Language Models.md",
+    "paper  notes/assets/上下文工程的基础组件构成图.png",
+    "paper  notes/assets/A Survey of Context Engineering for Large Language Models_dual.pdf",
+    "paper  notes/assets/Pasted image 20250721142033.png",
+    "cp-algorithm/GCC扩展——PBDS，Rope.md",
+    "cp-algorithm/延迟标记（Lazy Propagation）维护数据结构.md",
+    "cp-algorithm/替罪羊树.md",
+    "cp-algorithm/同余最短路.md",
+    "cp-algorithm/可持久化并查集、可撤销并查集.md",
+    "cp-algorithm/划分和式的渐进复杂度.md",
+    "cp-algorithm/笛卡尔树.md",
+    "cp-algorithm/单调回归（Isotonic Regression）问题.md",
+    "RL/IntroRL/马尔科夫决策过程.md",
+    "2025-07-21.md",
+    "paper  notes/Chain Of Table.md",
+    "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
+    "paper  notes/TableRAG.md",
+    "paper  notes/Quiet-STaR.md",
+    "paper  notes/HtmlRAG.md",
+    "paper  notes/HelpSteer2-Preference.md",
     "Business/20250708第三届红杉资本峰会纪要.md",
+    "工程技术/Ollama.md",
+    "工程技术/技术栈学习路线.md",
+    "工程技术/调整PowerShell的执行策略.md",
+    "cp-algorithm/采样逆变换和拒绝采样.md",
+    "cp-algorithm/启发思考法.md",
+    "cp-algorithm/裴蜀定理、欧几里得算法和扩展欧几里得算法.md",
+    "RL/IntroRL/强化学习-PONG 游戏代码解读.md",
     "Business/assets/Pasted image 20250710230635.png",
     "Business/assets/Pasted image 20250710230110.png",
     "Business/assets/Pasted image 20250710230043.png",
     "Business/assets/Pasted image 20250710225558.png",
     "Business/assets",
-    "Business/人们使用LLM做了什么.md",
-    "Business/商业领域的9大选择题.md",
-    "Business/最后一英里.md",
-    "Business/AI+商业.md",
-    "工程技术/技术栈学习路线.md",
-    "Rust/字符串.md",
-    "Rust/动态数组.md",
     "Rust",
-    "cp-algorithm/GCC扩展——PBDS，Rope.md",
-    "工程技术/Go后端技术/Go手写排序.md",
     "cp-algorithm/Untitled",
-    "cp-algorithm/逆元、除法同余和容斥原理.md",
-    "cp-algorithm/采样逆变换和拒绝采样.md",
-    "cp-algorithm/中国剩余定理.md",
-    "cp-algorithm/树同构问题.md",
-    "cp-algorithm/计算超大指数的逆元.md",
-    "工程技术/Go后端技术/Go泛型知识点.md",
-    "工程技术/Go后端技术/Go接口知识点.md",
-    "工程技术/Java后端技术/Java类.md",
-    "工程技术/Java后端技术/Java多线程.md",
-    "工程技术/Java后端技术/Java Lambda表达式.md",
-    "工程技术/Java后端技术/注解和反射.md",
-    "cp-algorithm/高效计算点集中的曼哈顿距离.md",
-    "cp-algorithm/卡特兰数.md",
-    "cp-algorithm/常用的位运算.md",
-    "工程技术/Go后端技术/Go语法糖.md",
     "工程技术/cpp奇技淫巧",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
     "manim",
@@ -202,12 +217,9 @@
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf",
     "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf.crdownload",
     "工程技术/Python进阶/流畅的Python.pdf",
-    "RL/IntroRL/lecture3.pdf",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
     "cp-algorithm/assets/Kruskal重建树.png",
     "paper  notes/assets/flash attention forward pass.png",
-    "paper  notes/assets/FlashAttention.png",
-    "工程技术/Java后端技术/assets/java roadmap.png",
     "未命名.canvas"
   ]
 }
