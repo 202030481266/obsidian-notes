@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88f51d2d163c5e2d",
+        "id": "7584bc8684f5f62f",
         "type": "tabs",
         "children": [
           {
-            "id": "0a89eb952bc0cac7",
+            "id": "08b698e240cbd752",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,8 +173,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a89eb952bc0cac7",
+  "active": "f08620785d0bc71a",
   "lastOpenFiles": [
+    "工程技术/cpp奇技淫巧/移动语义.md",
+    "工程技术/cpp奇技淫巧/宏的使用.md",
+    "工程技术/cpp奇技淫巧/智能指针.md",
+    "工程技术/cpp奇技淫巧/隐式转换.md",
+    "工程技术/cpp奇技淫巧/箭头操作符.md",
+    "工程技术/cpp奇技淫巧/单例模式.md",
+    "工程技术/前端开发/html学习/表单练习.md",
+    "工程技术/前端开发/html学习/表单相关知识点.md",
+    "cp-algorithm/复杂度为O(mn)的树上背包.md",
+    "cp-algorithm/树链剖分.md",
+    "Business/20250708第三届红杉资本峰会纪要.md",
+    "工程技术/SSH反向代理和转发.md",
     "paper  notes/A Survey of Context Engineering for Large Language Models.md",
     "paper  notes/assets/上下文工程的基础组件构成图.png",
     "paper  notes/assets/A Survey of Context Engineering for Large Language Models_dual.pdf",
@@ -192,17 +204,6 @@
     "paper  notes/Chain Of Table.md",
     "paper  notes/Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.md",
     "paper  notes/TableRAG.md",
-    "paper  notes/Quiet-STaR.md",
-    "paper  notes/HtmlRAG.md",
-    "paper  notes/HelpSteer2-Preference.md",
-    "Business/20250708第三届红杉资本峰会纪要.md",
-    "工程技术/Ollama.md",
-    "工程技术/技术栈学习路线.md",
-    "工程技术/调整PowerShell的执行策略.md",
-    "cp-algorithm/采样逆变换和拒绝采样.md",
-    "cp-algorithm/启发思考法.md",
-    "cp-algorithm/裴蜀定理、欧几里得算法和扩展欧几里得算法.md",
-    "RL/IntroRL/强化学习-PONG 游戏代码解读.md",
     "Business/assets/Pasted image 20250710230635.png",
     "Business/assets/Pasted image 20250710230110.png",
     "Business/assets/Pasted image 20250710230043.png",
