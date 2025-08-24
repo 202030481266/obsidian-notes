@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e13ba01364d16b03",
+        "id": "faa4fdf10aabf433",
         "type": "tabs",
         "children": [
           {
-            "id": "60e225fa45ccaefc",
+            "id": "3b1026136d362afa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,9 +175,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60e225fa45ccaefc",
+  "active": "3b1026136d362afa",
   "lastOpenFiles": [
     "工程技术/前端开发/React 项目代码组织.md",
+    "工程技术/前端开发/React 语言控制解决方案.md",
+    "工程技术/前端开发/CSS变量.md",
     "工程技术/前端开发/React Hooks 学习笔记.md",
     "工程技术/前端开发/TypeScript 特殊运算符.md",
     "工程技术/前端开发/React 语法糖.md",
@@ -204,8 +206,6 @@
     "cp-algorithm/同余最短路.md",
     "cp-algorithm/可持久化并查集、可撤销并查集.md",
     "cp-algorithm/划分和式的渐进复杂度.md",
-    "cp-algorithm/笛卡尔树.md",
-    "cp-algorithm/单调回归（Isotonic Regression）问题.md",
     "Business/assets/Pasted image 20250710230635.png",
     "Business/assets/Pasted image 20250710230110.png",
     "Business/assets/Pasted image 20250710230043.png",
