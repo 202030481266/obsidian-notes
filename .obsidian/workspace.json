@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "faa4fdf10aabf433",
+        "id": "b4aa679d47c5cd23",
         "type": "tabs",
         "children": [
           {
-            "id": "3b1026136d362afa",
+            "id": "839be8076ad33f05",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 321.5
   },
   "right": {
     "id": "87419be2d622fda6",
@@ -175,8 +175,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b1026136d362afa",
+  "active": "839be8076ad33f05",
   "lastOpenFiles": [
+    "cp-algorithm/裴波纳契数列的一些性质.md",
+    "cp-algorithm/GCC扩展——PBDS，Rope.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "cp-algorithm/裴蜀定理、欧几里得算法和扩展欧几里得算法.md",
+    "cp-algorithm/判断负环.md",
+    "cp-algorithm/中国剩余定理.md",
+    "Untitled.base",
+    "cp-algorithm/常用的位运算.md",
+    "cp-algorithm/树同构问题.md",
     "工程技术/前端开发/React 项目代码组织.md",
     "工程技术/前端开发/React 语言控制解决方案.md",
     "工程技术/前端开发/CSS变量.md",
@@ -196,16 +207,9 @@
     "cp-algorithm/树链剖分.md",
     "Business/20250708第三届红杉资本峰会纪要.md",
     "工程技术/SSH反向代理和转发.md",
-    "paper  notes/A Survey of Context Engineering for Large Language Models.md",
     "paper  notes/assets/上下文工程的基础组件构成图.png",
     "paper  notes/assets/A Survey of Context Engineering for Large Language Models_dual.pdf",
     "paper  notes/assets/Pasted image 20250721142033.png",
-    "cp-algorithm/GCC扩展——PBDS，Rope.md",
-    "cp-algorithm/延迟标记（Lazy Propagation）维护数据结构.md",
-    "cp-algorithm/替罪羊树.md",
-    "cp-algorithm/同余最短路.md",
-    "cp-algorithm/可持久化并查集、可撤销并查集.md",
-    "cp-algorithm/划分和式的渐进复杂度.md",
     "Business/assets/Pasted image 20250710230635.png",
     "Business/assets/Pasted image 20250710230110.png",
     "Business/assets/Pasted image 20250710230043.png",
@@ -216,10 +220,6 @@
     "工程技术/cpp奇技淫巧",
     "工程技术/前端开发/html学习/assets/form data html practice.png",
     "manim",
-    "工程技术/Python进阶/~~$流畅的Python.pdf",
-    "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf",
-    "工程技术/Python进阶/Python Cookbook（第3版）中文版.pdf.crdownload",
-    "工程技术/Python进阶/流畅的Python.pdf",
     "cp-algorithm/assets/Kruskal重建树和主席树同框.png",
     "cp-algorithm/assets/Kruskal重建树.png",
     "paper  notes/assets/flash attention forward pass.png",
